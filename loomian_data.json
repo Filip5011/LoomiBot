@@ -1,0 +1,1202 @@
+{
+  "Embit": {
+    "image": "loomian_images/Embit-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Embit"
+  },
+  "Rabburn": {
+    "image": "loomian_images/Rabburn-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Rabburn"
+  },
+  "Searknight": {
+    "image": "loomian_images/Searknight-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Searknight"
+  },
+  "Dripple": {
+    "image": "loomian_images/Dripple-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dripple"
+  },
+  "Reptide": {
+    "image": "loomian_images/Reptide-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Reptide"
+  },
+  "Luminami": {
+    "image": "loomian_images/Luminami-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Luminami"
+  },
+  "Fevine": {
+    "image": "loomian_images/Fevine-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Fevine"
+  },
+  "Felver": {
+    "image": "loomian_images/Felver-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Felver"
+  },
+  "Tahtab": {
+    "image": "loomian_images/Tahtab-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Tahtab"
+  },
+  "Eaglit": {
+    "image": "loomian_images/Eaglit-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Eaglit"
+  },
+  "Torprey": {
+    "image": "loomian_images/Torprey-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Torprey"
+  },
+  "Falkyrie": {
+    "image": "loomian_images/Falkyrie-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Falkyrie"
+  },
+  "Vambat": {
+    "image": "loomian_images/Vambat-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Vambat"
+  },
+  "Dimpire": {
+    "image": "loomian_images/Dimpire-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dimpire"
+  },
+  "Vesperatu": {
+    "image": "loomian_images/Vesperatu-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Vesperatu"
+  },
+  "Snocub": {
+    "image": "loomian_images/Snocub-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snocub"
+  },
+  "Snowki": {
+    "image": "loomian_images/Snowki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snowki"
+  },
+  "Himbrr": {
+    "image": "loomian_images/Himbrr-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Himbrr"
+  },
+  "Weevolt": {
+    "image": "loomian_images/Weevolt-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Weevolt"
+  },
+  "Stozap": {
+    "image": "loomian_images/Stozap-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Stozap"
+  },
+  "Zuelong": {
+    "image": "loomian_images/Zuelong-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Zuelong"
+  },
+  "Twilat": {
+    "image": "loomian_images/Twilat-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Twilat"
+  },
+  "Umbrat": {
+    "image": "loomian_images/Umbrat-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Umbrat"
+  },
+  "Luxoar": {
+    "image": "loomian_images/Luxoar-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Luxoar"
+  },
+  "Tiklipse": {
+    "image": "loomian_images/Tiklipse-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Tiklipse"
+  },
+  "Cathorn": {
+    "image": "loomian_images/Cathorn-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cathorn"
+  },
+  "Propae": {
+    "image": "loomian_images/Propae-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Propae"
+  },
+  "Cynamoth": {
+    "image": "loomian_images/Cynamoth-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cynamoth"
+  },
+  "Sumobito": {
+    "image": "loomian_images/Sumobito-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Sumobito"
+  },
+  "Twittle": {
+    "image": "loomian_images/Twittle-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Twittle"
+  },
+  "Paratweet": {
+    "image": "loomian_images/Paratweet-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Paratweet"
+  },
+  "Avitross": {
+    "image": "loomian_images/Avitross-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Avitross"
+  },
+  "Pyder": {
+    "image": "loomian_images/Pyder-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pyder"
+  },
+  "Swolder": {
+    "image": "loomian_images/Swolder-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Swolder"
+  },
+  "Antsee": {
+    "image": "loomian_images/Antsee-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Antsee"
+  },
+  "Florant": {
+    "image": "loomian_images/Florant-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Florant"
+  },
+  "Grubby": {
+    "image": "loomian_images/Grubby-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Grubby"
+  },
+  "Coonucopia": {
+    "image": "loomian_images/Coonucopia-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Coonucopia"
+  },
+  "Terrafly": {
+    "image": "loomian_images/Terrafly-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Terrafly"
+  },
+  "Terraclaw": {
+    "image": "loomian_images/Terraclaw-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Terraclaw"
+  },
+  "Kleptyke": {
+    "image": "loomian_images/Kleptyke-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kleptyke"
+  },
+  "Ragoon": {
+    "image": "loomian_images/Ragoon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ragoon"
+  },
+  "Babore": {
+    "image": "loomian_images/Babore-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Babore"
+  },
+  "Boarrok": {
+    "image": "loomian_images/Boarrok-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Boarrok"
+  },
+  "Geklow": {
+    "image": "loomian_images/Geklow-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Geklow"
+  },
+  "Eleguana": {
+    "image": "loomian_images/Eleguana-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Eleguana"
+  },
+  "Slugling": {
+    "image": "loomian_images/Slugling-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Slugling"
+  },
+  "Escargrow": {
+    "image": "loomian_images/Escargrow-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Escargrow"
+  },
+  "Gastroak": {
+    "image": "loomian_images/Gastroak-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gastroak"
+  },
+  "Kabunga": {
+    "image": "loomian_images/Kabunga-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kabunga"
+  },
+  "Wiki-Wiki": {
+    "image": "loomian_images/Wiki-Wiki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wiki-Wiki"
+  },
+  "Chartiki": {
+    "image": "loomian_images/Chartiki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Chartiki"
+  },
+  "Waka-Laka": {
+    "image": "loomian_images/Waka-Laka-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Waka-Laka"
+  },
+  "Shawchi": {
+    "image": "loomian_images/Shawchi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Shawchi"
+  },
+  "Rakrawla": {
+    "image": "loomian_images/Rakrawla-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Rakrawla"
+  },
+  "Sedimars": {
+    "image": "loomian_images/Sedimars-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Sedimars"
+  },
+  "Gumpod": {
+    "image": "loomian_images/Gumpod-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gumpod"
+  },
+  "Ventacean": {
+    "image": "loomian_images/Ventacean-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ventacean"
+  },
+  "Phancub": {
+    "image": "loomian_images/Phancub-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Phancub"
+  },
+  "Ursoul": {
+    "image": "loomian_images/Ursoul-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ursoul"
+  },
+  "Ursnac": {
+    "image": "loomian_images/Ursnac-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ursnac"
+  },
+  "Whispup": {
+    "image": "loomian_images/Whispup-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Whispup"
+  },
+  "Revenine": {
+    "image": "loomian_images/Revenine-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Revenine"
+  },
+  "Skilava": {
+    "image": "loomian_images/Skilava-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Skilava"
+  },
+  "Geksplode": {
+    "image": "loomian_images/Geksplode-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Geksplode"
+  },
+  "Eruptidon": {
+    "image": "loomian_images/Eruptidon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Eruptidon"
+  },
+  "Craytal": {
+    "image": "loomian_images/Craytal-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Craytal"
+  },
+  "Krakaloa": {
+    "image": "loomian_images/Krakaloa-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Krakaloa"
+  },
+  "Volkaloa": {
+    "image": "loomian_images/Volkaloa-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Volkaloa"
+  },
+  "Festifir": {
+    "image": "loomian_images/Festifir-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Festifir"
+  },
+  "Igneol": {
+    "image": "loomian_images/Igneol-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Igneol"
+  },
+  "Chrysite": {
+    "image": "loomian_images/Chrysite-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Chrysite"
+  },
+  "Obsidrugon": {
+    "image": "loomian_images/Obsidrugon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Obsidrugon"
+  },
+  "Cafnote": {
+    "image": "loomian_images/Cafnote-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cafnote"
+  },
+  "Trumbull": {
+    "image": "loomian_images/Trumbull-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Trumbull"
+  },
+  "Mootune": {
+    "image": "loomian_images/Mootune-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mootune"
+  },
+  "Gobbidemic": {
+    "image": "loomian_images/Gobbidemic-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gobbidemic"
+  },
+  "Icigool": {
+    "image": "loomian_images/Icigool-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Icigool"
+  },
+  "Pyramind": {
+    "image": "loomian_images/Pyramind-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pyramind"
+  },
+  "Pharoglyph": {
+    "image": "loomian_images/Pharoglyph-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pharoglyph"
+  },
+  "Burroach": {
+    "image": "loomian_images/Burroach-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Burroach"
+  },
+  "Garbantis": {
+    "image": "loomian_images/Garbantis-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Garbantis"
+  },
+  "Whimpor": {
+    "image": "loomian_images/Whimpor-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Whimpor"
+  },
+  "Stratusoar": {
+    "image": "loomian_images/Stratusoar-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Stratusoar"
+  },
+  "Territi": {
+    "image": "loomian_images/Territi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Territi"
+  },
+  "Dyeborg": {
+    "image": "loomian_images/Dyeborg-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dyeborg"
+  },
+  "Operaptor": {
+    "image": "loomian_images/Operaptor-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Operaptor"
+  },
+  "Concredon": {
+    "image": "loomian_images/Concredon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Concredon"
+  },
+  "Tyrecks": {
+    "image": "loomian_images/Tyrecks-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Tyrecks"
+  },
+  "Chompactor": {
+    "image": "loomian_images/Chompactor-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Chompactor"
+  },
+  "Munchweel": {
+    "image": "loomian_images/Munchweel-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Munchweel"
+  },
+  "Scorb": {
+    "image": "loomian_images/Scorb-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Scorb"
+  },
+  "Veylens": {
+    "image": "loomian_images/Veylens-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Veylens"
+  },
+  "Gardrone": {
+    "image": "loomian_images/Gardrone-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gardrone"
+  },
+  "Poochrol": {
+    "image": "loomian_images/Poochrol-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Poochrol"
+  },
+  "Hunder": {
+    "image": "loomian_images/Hunder-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Hunder"
+  },
+  "Goppie": {
+    "image": "loomian_images/Goppie-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Goppie"
+  },
+  "Arapaigo": {
+    "image": "loomian_images/Arapaigo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Arapaigo"
+  },
+  "Pyke": {
+    "image": "loomian_images/Pyke-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pyke"
+  },
+  "Skelic": {
+    "image": "loomian_images/Skelic-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Skelic"
+  },
+  "Zaleo": {
+    "image": "loomian_images/Zaleo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Zaleo"
+  },
+  "Joltooth": {
+    "image": "loomian_images/Joltooth-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Joltooth"
+  },
+  "Dobo": {
+    "image": "loomian_images/Dobo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dobo"
+  },
+  "Infernix": {
+    "image": "loomian_images/Infernix-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Infernix"
+  },
+  "Kyogo": {
+    "image": "loomian_images/Kyogo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kyogo"
+  },
+  "Dorogo": {
+    "image": "loomian_images/Dorogo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dorogo"
+  },
+  "Wiledile": {
+    "image": "loomian_images/Wiledile-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wiledile"
+  },
+  "Mawamurk": {
+    "image": "loomian_images/Mawamurk-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mawamurk"
+  },
+  "Ampole": {
+    "image": "loomian_images/Ampole-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ampole"
+  },
+  "Amphiton": {
+    "image": "loomian_images/Amphiton-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Amphiton"
+  },
+  "Meditoad": {
+    "image": "loomian_images/Meditoad-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Meditoad"
+  },
+  "Pwuff": {
+    "image": "loomian_images/Pwuff-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pwuff"
+  },
+  "Bloatox": {
+    "image": "loomian_images/Bloatox-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Bloatox"
+  },
+  "Barblast": {
+    "image": "loomian_images/Barblast-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Barblast"
+  },
+  "Swimp": {
+    "image": "loomian_images/Swimp-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Swimp"
+  },
+  "Snapr": {
+    "image": "loomian_images/Snapr-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snapr"
+  },
+  "Garlash": {
+    "image": "loomian_images/Garlash-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Garlash"
+  },
+  "Hydrini": {
+    "image": "loomian_images/Hydrini-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Hydrini"
+  },
+  "Bezeldew": {
+    "image": "loomian_images/Bezeldew-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Bezeldew"
+  },
+  "Deludrix": {
+    "image": "loomian_images/Deludrix-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Deludrix"
+  },
+  "Ceratot": {
+    "image": "loomian_images/Ceratot-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ceratot"
+  },
+  "Trepodon": {
+    "image": "loomian_images/Trepodon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Trepodon"
+  },
+  "Colossotrops": {
+    "image": "loomian_images/Colossotrops-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Colossotrops"
+  },
+  "Cupoink": {
+    "image": "loomian_images/Cupoink-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cupoink"
+  },
+  "Hoganosh": {
+    "image": "loomian_images/Hoganosh-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Hoganosh"
+  },
+  "Mochibi": {
+    "image": "loomian_images/Mochibi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mochibi"
+  },
+  "Totemochi": {
+    "image": "loomian_images/Totemochi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Totemochi"
+  },
+  "Mocho": {
+    "image": "loomian_images/Mocho-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mocho"
+  },
+  "Gwurm": {
+    "image": "loomian_images/Gwurm-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gwurm"
+  },
+  "Odasho": {
+    "image": "loomian_images/Odasho-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Odasho"
+  },
+  "Spreezy": {
+    "image": "loomian_images/Spreezy-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Spreezy"
+  },
+  "Pipsee": {
+    "image": "loomian_images/Pipsee-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pipsee"
+  },
+  "Dandylil": {
+    "image": "loomian_images/Dandylil-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dandylil"
+  },
+  "Whippledriff": {
+    "image": "loomian_images/Whippledriff-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Whippledriff"
+  },
+  "Vari": {
+    "image": "loomian_images/Vari-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Vari"
+  },
+  "Cervolen": {
+    "image": "loomian_images/Cervolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cervolen"
+  },
+  "Wendolen": {
+    "image": "loomian_images/Wendolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wendolen"
+  },
+  "Kirolen": {
+    "image": "loomian_images/Kirolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kirolen"
+  },
+  "Zepholen": {
+    "image": "loomian_images/Zepholen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Zepholen"
+  },
+  "Venolen": {
+    "image": "loomian_images/Venolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Venolen"
+  },
+  "Wresolen": {
+    "image": "loomian_images/Wresolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wresolen"
+  },
+  "Buzzolen": {
+    "image": "loomian_images/Buzzolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Buzzolen"
+  },
+  "Tundrolen": {
+    "image": "loomian_images/Tundrolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Tundrolen"
+  },
+  "Pyrolen": {
+    "image": "loomian_images/Pyrolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Pyrolen"
+  },
+  "Hydrolen": {
+    "image": "loomian_images/Hydrolen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Hydrolen"
+  },
+  "Copling": {
+    "image": "loomian_images/Copling-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Copling"
+  },
+  "Copperage": {
+    "image": "loomian_images/Copperage-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Copperage"
+  },
+  "Oxidrake": {
+    "image": "loomian_images/Oxidrake-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Oxidrake"
+  },
+  "Spirivii": {
+    "image": "loomian_images/Spirivii-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Spirivii"
+  },
+  "Eidohusk": {
+    "image": "loomian_images/Eidohusk-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Eidohusk"
+  },
+  "Harvesect": {
+    "image": "loomian_images/Harvesect-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Harvesect"
+  },
+  "Snowl": {
+    "image": "loomian_images/Snowl-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snowl"
+  },
+  "Stricicle": {
+    "image": "loomian_images/Stricicle-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Stricicle"
+  },
+  "Wintrix": {
+    "image": "loomian_images/Wintrix-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wintrix"
+  },
+  "Snagull": {
+    "image": "loomian_images/Snagull-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snagull"
+  },
+  "Snagulp": {
+    "image": "loomian_images/Snagulp-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snagulp"
+  },
+  "Snagoop": {
+    "image": "loomian_images/Snagoop-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snagoop"
+  },
+  "Makame": {
+    "image": "loomian_images/Makame-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Makame"
+  },
+  "Makoro": {
+    "image": "loomian_images/Makoro-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Makoro"
+  },
+  "Tsukame": {
+    "image": "loomian_images/Tsukame-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Tsukame"
+  },
+  "Cavenish": {
+    "image": "loomian_images/Cavenish-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cavenish"
+  },
+  "Banfino": {
+    "image": "loomian_images/Banfino-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Banfino"
+  },
+  "Kanki": {
+    "image": "loomian_images/Kanki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kanki"
+  },
+  "Kanibo": {
+    "image": "loomian_images/Kanibo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kanibo"
+  },
+  "Sharpod": {
+    "image": "loomian_images/Sharpod-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Sharpod"
+  },
+  "Samarine": {
+    "image": "loomian_images/Samarine-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Samarine"
+  },
+  "Lumica": {
+    "image": "loomian_images/Lumica-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lumica"
+  },
+  "Lumello": {
+    "image": "loomian_images/Lumello-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lumello"
+  },
+  "Polypi": {
+    "image": "loomian_images/Polypi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Polypi"
+  },
+  "Laphyra": {
+    "image": "loomian_images/Laphyra-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Laphyra"
+  },
+  "Jellusa": {
+    "image": "loomian_images/Jellusa-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Jellusa"
+  },
+  "Taoshi": {
+    "image": "loomian_images/Taoshi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Taoshi"
+  },
+  "Taoshinu": {
+    "image": "loomian_images/Taoshinu-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Taoshinu"
+  },
+  "Kittone": {
+    "image": "loomian_images/Kittone-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kittone"
+  },
+  "Lyricat": {
+    "image": "loomian_images/Lyricat-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lyricat"
+  },
+  "Boonary": {
+    "image": "loomian_images/Boonary-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Boonary"
+  },
+  "Somata": {
+    "image": "loomian_images/Somata-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Somata"
+  },
+  "Clionae": {
+    "image": "loomian_images/Clionae-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Clionae"
+  },
+  "Cinnaboo": {
+    "image": "loomian_images/Cinnaboo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cinnaboo"
+  },
+  "Cinnogre": {
+    "image": "loomian_images/Cinnogre-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cinnogre"
+  },
+  "Swirelle": {
+    "image": "loomian_images/Swirelle-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Swirelle"
+  },
+  "Swishy": {
+    "image": "loomian_images/Swishy-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Swishy"
+  },
+  "Fiscarna": {
+    "image": "loomian_images/Fiscarna-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Fiscarna"
+  },
+  "Bunpuff": {
+    "image": "loomian_images/Bunpuff-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Bunpuff"
+  },
+  "Bunnecki": {
+    "image": "loomian_images/Bunnecki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Bunnecki"
+  },
+  "Dractus": {
+    "image": "loomian_images/Dractus-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dractus"
+  },
+  "Frutress": {
+    "image": "loomian_images/Frutress-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Frutress"
+  },
+  "Seedrake": {
+    "image": "loomian_images/Seedrake-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Seedrake"
+  },
+  "Volpup": {
+    "image": "loomian_images/Volpup-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Volpup"
+  },
+  "Halvantic": {
+    "image": "loomian_images/Halvantic-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Halvantic"
+  },
+  "Impkin": {
+    "image": "loomian_images/Impkin-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Impkin"
+  },
+  "Grimmick": {
+    "image": "loomian_images/Grimmick-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Grimmick"
+  },
+  "Imperior": {
+    "image": "loomian_images/Imperior-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Imperior"
+  },
+  "Mistlebud": {
+    "image": "loomian_images/Mistlebud-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mistlebud"
+  },
+  "Hollibunch": {
+    "image": "loomian_images/Hollibunch-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Hollibunch"
+  },
+  "Cryocub": {
+    "image": "loomian_images/Cryocub-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cryocub"
+  },
+  "Barbadger": {
+    "image": "loomian_images/Barbadger-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Barbadger"
+  },
+  "Kyeggo": {
+    "image": "loomian_images/Kyeggo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kyeggo"
+  },
+  "Doreggo": {
+    "image": "loomian_images/Doreggo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Doreggo"
+  },
+  "Dreggodyne": {
+    "image": "loomian_images/Dreggodyne-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dreggodyne"
+  },
+  "Wispur": {
+    "image": "loomian_images/Wispur-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wispur"
+  },
+  "Lampurge": {
+    "image": "loomian_images/Lampurge-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lampurge"
+  },
+  "Charonyx": {
+    "image": "loomian_images/Charonyx-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Charonyx"
+  },
+  "Smoal": {
+    "image": "loomian_images/Smoal-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Smoal"
+  },
+  "Charkiln": {
+    "image": "loomian_images/Charkiln-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Charkiln"
+  },
+  "Billoforge": {
+    "image": "loomian_images/Billoforge-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Billoforge"
+  },
+  "Sherbot": {
+    "image": "loomian_images/Sherbot-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Sherbot"
+  },
+  "Llamba": {
+    "image": "loomian_images/Llamba-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Llamba"
+  },
+  "Choochew": {
+    "image": "loomian_images/Choochew-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Choochew"
+  },
+  "Loomala": {
+    "image": "loomian_images/Loomala-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Loomala"
+  },
+  "Fentern": {
+    "image": "loomian_images/Fentern-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Fentern"
+  },
+  "Weaselin": {
+    "image": "loomian_images/Weaselin-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Weaselin"
+  },
+  "Singeel": {
+    "image": "loomian_images/Singeel-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Singeel"
+  },
+  "Moreel": {
+    "image": "loomian_images/Moreel-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Moreel"
+  },
+  "Crabushi": {
+    "image": "loomian_images/Crabushi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Crabushi"
+  },
+  "Crabtana": {
+    "image": "loomian_images/Crabtana-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Crabtana"
+  },
+  "Teripod": {
+    "image": "loomian_images/Teripod-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Teripod"
+  },
+  "Teridescent": {
+    "image": "loomian_images/Teridescent-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Teridescent"
+  },
+  "Skampi": {
+    "image": "loomian_images/Skampi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Skampi"
+  },
+  "Prawnsu": {
+    "image": "loomian_images/Prawnsu-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Prawnsu"
+  },
+  "Shrimposte": {
+    "image": "loomian_images/Shrimposte-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Shrimposte"
+  },
+  "Dokan": {
+    "image": "loomian_images/Dokan-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dokan"
+  },
+  "Dokumori": {
+    "image": "loomian_images/Dokumori-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dokumori"
+  },
+  "Mirrami": {
+    "image": "loomian_images/Mirrami-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mirrami"
+  },
+  "Mirraith": {
+    "image": "loomian_images/Mirraith-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mirraith"
+  },
+  "Thawmin": {
+    "image": "loomian_images/Thawmin-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Thawmin"
+  },
+  "Leshent": {
+    "image": "loomian_images/Leshent-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Leshent"
+  },
+  "Kayute": {
+    "image": "loomian_images/Kayute-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kayute"
+  },
+  "Kayappa": {
+    "image": "loomian_images/Kayappa-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kayappa"
+  },
+  "Kramboss": {
+    "image": "loomian_images/Kramboss-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Kramboss"
+  },
+  "Leopaw": {
+    "image": "loomian_images/Leopaw-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Leopaw"
+  },
+  "Chienta": {
+    "image": "loomian_images/Chienta-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Chienta"
+  },
+  "Eyebrella": {
+    "image": "loomian_images/Eyebrella-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Eyebrella"
+  },
+  "Parasoul": {
+    "image": "loomian_images/Parasoul-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Parasoul"
+  },
+  "Lissen": {
+    "image": "loomian_images/Lissen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lissen"
+  },
+  "Biwarned": {
+    "image": "loomian_images/Biwarned-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Biwarned"
+  },
+  "Lantot": {
+    "image": "loomian_images/Lantot-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lantot"
+  },
+  "Lantorch": {
+    "image": "loomian_images/Lantorch-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Lantorch"
+  },
+  "Milgoo": {
+    "image": "loomian_images/Milgoo-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Milgoo"
+  },
+  "Rancidor": {
+    "image": "loomian_images/Rancidor-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Rancidor"
+  },
+  "Nautling": {
+    "image": "loomian_images/Nautling-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nautling"
+  },
+  "Nautillect": {
+    "image": "loomian_images/Nautillect-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nautillect"
+  },
+  "Naukout": {
+    "image": "loomian_images/Naukout-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Naukout"
+  },
+  "Yutiny": {
+    "image": "loomian_images/Yutiny-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Yutiny"
+  },
+  "Yuteen": {
+    "image": "loomian_images/Yuteen-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Yuteen"
+  },
+  "Yutyphoon": {
+    "image": "loomian_images/Yutyphoon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Yutyphoon"
+  },
+  "Venile": {
+    "image": "loomian_images/Venile-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Venile"
+  },
+  "Verinox": {
+    "image": "loomian_images/Verinox-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Verinox"
+  },
+  "Verinosaur": {
+    "image": "loomian_images/Verinosaur-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Verinosaur"
+  },
+  "Nymvolt": {
+    "image": "loomian_images/Nymvolt-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nymvolt"
+  },
+  "Ohmbolt": {
+    "image": "loomian_images/Ohmbolt-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ohmbolt"
+  },
+  "Plasmoth": {
+    "image": "loomian_images/Plasmoth-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Plasmoth"
+  },
+  "Cicalute": {
+    "image": "loomian_images/Cicalute-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cicalute"
+  },
+  "Violana": {
+    "image": "loomian_images/Violana-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Violana"
+  },
+  "Goswing": {
+    "image": "loomian_images/Goswing-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Goswing"
+  },
+  "Ganderveil": {
+    "image": "loomian_images/Ganderveil-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ganderveil"
+  },
+  "Banooh": {
+    "image": "loomian_images/Banooh-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Banooh"
+  },
+  "Banokey": {
+    "image": "loomian_images/Banokey-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Banokey"
+  },
+  "Spirwix": {
+    "image": "loomian_images/Spirwix-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Spirwix"
+  },
+  "Malevowax": {
+    "image": "loomian_images/Malevowax-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Malevowax"
+  },
+  "Grievestone": {
+    "image": "loomian_images/Grievestone-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Grievestone"
+  },
+  "Obelost": {
+    "image": "loomian_images/Obelost-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Obelost"
+  },
+  "Jimby": {
+    "image": "loomian_images/Jimby-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Jimby"
+  },
+  "Piccolio": {
+    "image": "loomian_images/Piccolio-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Piccolio"
+  },
+  "Wassel": {
+    "image": "loomian_images/Wassel-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wassel"
+  },
+  "Borealisk": {
+    "image": "loomian_images/Borealisk-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Borealisk"
+  },
+  "Snicle": {
+    "image": "loomian_images/Snicle-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Snicle"
+  },
+  "Slivyce": {
+    "image": "loomian_images/Slivyce-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Slivyce"
+  },
+  "Nukichi": {
+    "image": "loomian_images/Nukichi-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nukichi"
+  },
+  "Dainuki": {
+    "image": "loomian_images/Dainuki-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dainuki"
+  },
+  "Terracolt": {
+    "image": "loomian_images/Terracolt-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Terracolt"
+  },
+  "Broncotta": {
+    "image": "loomian_images/Broncotta-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Broncotta"
+  },
+  "Duskit": {
+    "image": "loomian_images/Duskit-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Duskit"
+  },
+  "Ikazune": {
+    "image": "loomian_images/Ikazune-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Ikazune"
+  },
+  "Protogon": {
+    "image": "loomian_images/Protogon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Protogon"
+  },
+  "Dakuda": {
+    "image": "loomian_images/Dakuda-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Dakuda"
+  },
+  "Cosmeleon": {
+    "image": "loomian_images/Cosmeleon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cosmeleon"
+  },
+  "Mutagon": {
+    "image": "loomian_images/Mutagon-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mutagon"
+  },
+  "Cephalops": {
+    "image": "loomian_images/Cephalops-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cephalops"
+  },
+  "Elephage": {
+    "image": "loomian_images/Elephage-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Elephage"
+  },
+  "Phagenaut": {
+    "image": "loomian_images/Phagenaut-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Phagenaut"
+  },
+  "Glacadia": {
+    "image": "loomian_images/Glacadia-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Glacadia"
+  },
+  "Arceros": {
+    "image": "loomian_images/Arceros-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Arceros"
+  },
+  "Novadeaus": {
+    "image": "loomian_images/Novadeaus-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Novadeaus"
+  },
+  "Morphezu": {
+    "image": "loomian_images/Morphezu-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Morphezu"
+  },
+  "Behemoroth": {
+    "image": "loomian_images/Behemoroth-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Behemoroth"
+  },
+  "Leviatross": {
+    "image": "loomian_images/Leviatross-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Leviatross"
+  },
+  "Cosmiore": {
+    "image": "loomian_images/Cosmiore-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Cosmiore"
+  },
+  "Solnecta": {
+    "image": "loomian_images/Solnecta-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Solnecta"
+  },
+  "Nymaurae": {
+    "image": "loomian_images/Nymaurae-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nymaurae"
+  },
+  "Nymesis": {
+    "image": "loomian_images/Nymesis-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nymesis"
+  },
+  "Metronette": {
+    "image": "loomian_images/Metronette-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Metronette"
+  },
+  "Nevermare": {
+    "image": "loomian_images/Nevermare-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Nevermare"
+  },
+  "Gargolem": {
+    "image": "loomian_images/Gargolem-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Gargolem"
+  },
+  "Odoyaga": {
+    "image": "loomian_images/Odoyaga-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Odoyaga"
+  },
+  "Wabalisc": {
+    "image": "loomian_images/Wabalisc-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Wabalisc"
+  },
+  "Akhalos": {
+    "image": "loomian_images/Akhalos-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Akhalos"
+  },
+  "Celesting": {
+    "image": "loomian_images/Celesting-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Celesting"
+  },
+  "Mimask": {
+    "image": "loomian_images/Mimask-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Mimask"
+  },
+  "Grimyuline": {
+    "image": "loomian_images/Grimyuline-model.webp",
+    "wiki": "https://loomian-legacy.fandom.com/wiki/Grimyuline"
+  }
+}

@@ -4,8 +4,9 @@ import logging
 from dotenv import load_dotenv
 import json
 import random
-from loomian_dict import loomian_dict
-from loomians import loomians
+from datetime import datetime, timedelta
+with open("loomian_data.json", "r", encoding="utf-8") as file:
+    loomian_data = json.load(file)
 import os
 
 load_dotenv()
@@ -19,8 +20,12 @@ intents.members = True
 MIN_MESSAGES = 3
 MAX_MESSAGES = 10
 
+MESSAGE_COOLDOWN = 2
+
 message_count = 0
+last_counted_message = None
 next_spawn_interval = random.randint(MIN_MESSAGES, MAX_MESSAGES)
+current_spawn = None
 
 bot = commands.Bot(command_prefix=commands.when_mentioned, intents=intents)
 
@@ -30,15 +35,31 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
-    global message_count, next_spawn_interval
+    global message_count, next_spawn_interval, current_spawn, last_counted_message
 
     if message.author == bot.user:
         return
 
+    now = datetime.now()
+
+    if last_counted_message is not None:
+        if (now - last_counted_message).total_seconds() < MESSAGE_COOLDOWN:
+            await bot.process_commands(message)
+            return
+
+    last_counted_message = now
     message_count += 1
 
     if message_count >= next_spawn_interval:
-        await message.channel.send(random.choice(loomians))
+        current_spawn = random.choice(list(loomian_data.keys()))
+
+        image_path = loomian_data[current_spawn]["image"]
+        file = discord.File(image_path, filename=f"{current_spawn}.webp")
+        embed = discord.Embed(title=f"A new Loomian has spawned!", description="Use \"@LoomiBot catch <Loomian>\" to catch it!")
+        embed.set_image(url=f"attachment://{current_spawn}.webp")
+
+        await message.channel.send(embed=embed, file=file)
+
         message_count = 0
         next_spawn_interval = random.randint(MIN_MESSAGES, MAX_MESSAGES)
 
@@ -47,6 +68,20 @@ async def on_message(message):
 @bot.command()
 async def wiki(ctx):
     await ctx.send("Here is the Official Loomian Legacy Wiki:\nhttps://loomian-legacy.fandom.com/wiki/Loomian_Legacy_Wiki")
+
+@bot.command()
+async def catch(ctx, *, loomian):
+    global current_spawn
+
+    if current_spawn is None:
+        await ctx.send("There is no Loomian spawned...")
+
+    if loomian.lower() == current_spawn.lower():
+        await ctx.send(f"{ctx.author.mention} caught a wild {current_spawn}!")
+        current_spawn = None
+
+    else:
+        await ctx.send("Incorrect Loomian, try again!")
 
 # @bot.command()
 # @commands.has_permissions(administrator=True)

@@ -18,8 +18,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 
-MIN_MESSAGES = 3
-MAX_MESSAGES = 5
+MIN_MESSAGES = 5
+MAX_MESSAGES = 10
 
 MESSAGE_COOLDOWN = 2
 HINT_COOLDOWN = 10
@@ -72,7 +72,7 @@ async def on_message(message):
 async def wiki(ctx):
     await ctx.send("Here is the Official Loomian Legacy Wiki:\nhttps://loomian-legacy.fandom.com/wiki/Loomian_Legacy_Wiki")
 
-@bot.command()
+@bot.command(aliases=["c"])
 async def catch(ctx, *, loomian):
     global current_spawn
 
@@ -86,7 +86,7 @@ async def catch(ctx, *, loomian):
     else:
         await ctx.send("Incorrect Loomian, try again!")
 
-@bot.command()
+@bot.command(aliases=["h"])
 async def hint(ctx):
     global current_spawn, last_hint
 

@@ -3,6 +3,7 @@ from discord.ext import commands
 import logging
 from dotenv import load_dotenv
 import json
+import math
 import random
 from datetime import datetime, timedelta
 with open("loomian_data.json", "r", encoding="utf-8") as file:
@@ -18,14 +19,16 @@ intents.message_content = True
 intents.members = True
 
 MIN_MESSAGES = 3
-MAX_MESSAGES = 10
+MAX_MESSAGES = 5
 
 MESSAGE_COOLDOWN = 2
+HINT_COOLDOWN = 10
 
 message_count = 0
 last_counted_message = None
 next_spawn_interval = random.randint(MIN_MESSAGES, MAX_MESSAGES)
 current_spawn = None
+last_hint = None
 
 bot = commands.Bot(command_prefix=commands.when_mentioned, intents=intents)
 
@@ -82,6 +85,35 @@ async def catch(ctx, *, loomian):
 
     else:
         await ctx.send("Incorrect Loomian, try again!")
+
+@bot.command()
+async def hint(ctx):
+    global current_spawn, last_hint
+
+    if current_spawn is None:
+        await ctx.send("There is no Loomian spawned...")
+        return
+
+    now = datetime.now()
+
+    if last_hint is not None:
+        remaining = HINT_COOLDOWN - (now - last_hint).total_seconds()
+
+        if remaining > 0:
+            await ctx.send(f"You can use another hint in {int(remaining)} seconds.")
+            return
+
+    last_hint = now
+
+    name_len = len(current_spawn)
+    hint = ["\\_"] * name_len
+    clues = max(1, math.ceil(name_len / 3))
+    revealed = random.sample(range(name_len), clues)
+
+    for i in revealed:
+        hint[i] = current_spawn[i]
+
+    await ctx.send("".join(hint))
 
 # @bot.command()
 # @commands.has_permissions(administrator=True)

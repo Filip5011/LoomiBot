@@ -27,6 +27,6 @@ async def on_message(message):
 
 @bot.command()
 async def wiki(ctx):
-    await ctx.send("Here is the Official Loomian Legacy Wiki:\nhttps://loomian-legacy.fandom.com/wiki/Loomian_Legacy_WikiS")
+    await ctx.send("Here is the Official Loomian Legacy Wiki:\nhttps://loomian-legacy.fandom.com/wiki/Loomian_Legacy_Wiki")
 
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)

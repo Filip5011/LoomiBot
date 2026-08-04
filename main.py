@@ -30,6 +30,8 @@ async def on_ready():
 
 @bot.event
 async def on_message(message):
+    global message_count, next_spawn_interval
+
     if message.author == bot.user:
         return
 

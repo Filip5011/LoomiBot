@@ -40,7 +40,11 @@ next_spawn_intervals = {}
 current_spawns = {}
 last_hints = {}
 
-bot = commands.Bot(command_prefix=commands.when_mentioned, intents=intents)
+bot = commands.Bot(
+    command_prefix=commands.when_mentioned,
+    intents=intents,
+    help_command=None
+)
 
 @bot.event
 async def on_ready():
@@ -103,6 +107,20 @@ async def on_message(message):
         next_spawn_intervals[server_id] = random.randint(MIN_MESSAGES, MAX_MESSAGES)
 
     await bot.process_commands(message)
+
+@bot.command()
+async def help(ctx):
+    embed = discord.Embed(title="LoomiBot's Commands",
+                          description="- **help** - View commands.\n" \
+                                      "- **wiki** <optional: query> - Displays the corresponding Wiki page.\n" \
+                                      "- **catch** <loomian> - Attempt to catch the current Loomian.\n" \
+                                      "- **hint** - Gives a hint on the current Loomian's name.\n" \
+                                      "- **loomians** - Shows your Loomian inventory.\n" \
+                                      "- **setup** - (Admin only) Setup the bot.\n" \
+                                      "\n" \
+                                      "If you find any bugs or errors, DM @filip5011")
+    await ctx.send(embed=embed)
+    return
 
 @bot.command(aliases=["w"])
 async def wiki(ctx, *, query=None):

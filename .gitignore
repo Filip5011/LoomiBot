@@ -1,2 +1,6 @@
 .env
 discord.log
+database.py
+tables.py
+loomibot.db
+__pycache__

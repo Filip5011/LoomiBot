@@ -28,8 +28,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 
-MIN_MESSAGES = 5
-MAX_MESSAGES = 10
+MIN_MESSAGES = 10
+MAX_MESSAGES = 15
 
 MESSAGE_COOLDOWN = 2
 HINT_COOLDOWN = 10
@@ -101,6 +101,8 @@ async def on_message(message):
         if channel is None:
             channel = await bot.fetch_channel(spawn_channel_id)
 
+        print(current_spawn)
+
         await channel.send(embed=embed, file=file)
 
         message_counts[server_id] = 0
@@ -135,6 +137,41 @@ async def wiki(ctx, *, query=None):
     else:
         await ctx.send("Invalid Loomian query.")
 
+
+@bot.command()
+@commands.is_owner()
+async def spawn(ctx, *, loomian):
+    global current_spawns
+
+    server_id = ctx.guild.id
+
+    current_spawn = loomian.title()
+    current_spawns[server_id] = current_spawn
+
+    image_path = loomian_data[current_spawn]["image"]
+    file = discord.File(image_path, filename=f"{current_spawn}.webp")
+    embed = discord.Embed(title=f"A new Loomian has spawned!", description="Use \"@LoomiBot catch <Loomian>\" to catch it!")
+    embed.set_image(url=f"attachment://{current_spawn}.webp")
+
+    with Session() as session:
+        server = session.query(Server).filter_by(
+            server_id=server_id
+        ).first()
+
+        if server is None:
+            return
+
+        spawn_channel_id = server.spawn_channel_id
+
+    channel = bot.get_channel(spawn_channel_id)
+
+    if channel is None:
+        channel = await bot.fetch_channel(spawn_channel_id)
+
+    await channel.send(embed=embed, file=file)
+
+    message_counts[server_id] = 0
+    next_spawn_intervals[server_id] = random.randint(MIN_MESSAGES, MAX_MESSAGES)
 
 @bot.command(aliases=["c"])
 async def catch(ctx, *, loomian):

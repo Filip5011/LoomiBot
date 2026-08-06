@@ -28,6 +28,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 
+OWNER_ID = 613290473620242453
+
 MIN_MESSAGES = 10
 MAX_MESSAGES = 15
 
@@ -39,6 +41,14 @@ last_counted_messages = {}
 next_spawn_intervals = {}
 current_spawns = {}
 last_hints = {}
+
+def admin_or_owner():
+    async def predicate(ctx):
+        return (
+            ctx.author.id == OWNER_ID or
+            ctx.author.guild_permissions.administrator
+        )
+    return commands.check(predicate)
 
 bot = commands.Bot(
     command_prefix=commands.when_mentioned,
@@ -137,6 +147,11 @@ async def wiki(ctx, *, query=None):
     else:
         await ctx.send("Invalid Loomian query.")
 
+
+@bot.command()
+@admin_or_owner()
+async def bam(ctx, *, message):
+    await ctx.send(f"{message} has been bammed.")
 
 @bot.command()
 @commands.is_owner()

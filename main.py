@@ -15,7 +15,8 @@ with open("loomian_data.json", "r", encoding="utf-8") as file:
 
 loomian_names = {
     data["id"]: name
-    for name, data in loomian_data.items()
+    for rarity in loomian_data.values()
+    for name, data in rarity.items()
 }
 
 Base.metadata.create_all(engine)
@@ -30,8 +31,8 @@ intents.members = True
 
 OWNER_ID = 613290473620242453
 
-MIN_MESSAGES = 10
-MAX_MESSAGES = 15
+MIN_MESSAGES = 30
+MAX_MESSAGES = 50
 
 MESSAGE_COOLDOWN = 2
 HINT_COOLDOWN = 10
@@ -41,6 +42,13 @@ last_counted_messages = {}
 next_spawn_intervals = {}
 current_spawns = {}
 last_hints = {}
+rarities = {
+    "Common": 60,
+    "Uncommon": 35.8,
+    "Rare": 2,
+    "Very_Rare": 1.3,
+    "Roamer": 0.8
+}
 
 def admin_or_owner():
     async def predicate(ctx):
@@ -88,10 +96,23 @@ async def on_message(message):
     message_counts[server_id] += 1
 
     if message_counts[server_id] >= next_spawn_intervals[server_id]:
-        current_spawns[server_id] = random.choice(list(loomian_data.keys()))
-        current_spawn = current_spawns[server_id]
 
-        image_path = loomian_data[current_spawn]["image"]
+        rarity = random.choices(
+            list(rarities.keys()),
+            weights=list(rarities.values()),
+            k=1
+        )[0]
+
+        current_spawn = random.choice(
+            list(loomian_data[rarity].keys())
+        )
+
+        current_spawns[server_id] = {
+            "name": current_spawn,
+            "rarity": rarity
+        }
+
+        image_path = loomian_data[rarity][current_spawn]["image"]
         file = discord.File(image_path, filename=f"{current_spawn}.webp")
         embed = discord.Embed(title=f"A new Loomian has spawned!", description="Use \"@LoomiBot catch <Loomian>\" to catch it!")
         embed.set_image(url=f"attachment://{current_spawn}.webp")
@@ -161,9 +182,19 @@ async def spawn(ctx, *, loomian):
     server_id = ctx.guild.id
 
     current_spawn = loomian.title()
-    current_spawns[server_id] = current_spawn
 
-    image_path = loomian_data[current_spawn]["image"]
+    for rarity, loomians in loomian_data.items():
+        if current_spawn in loomians:
+            current_spawns[server_id] = {
+                "name": current_spawn,
+                "rarity": rarity
+            }
+            break
+    else:
+        await ctx.send("Invalid Loomian.")
+        return
+
+    image_path = loomian_data[rarity][current_spawn]["image"]
     file = discord.File(image_path, filename=f"{current_spawn}.webp")
     embed = discord.Embed(title=f"A new Loomian has spawned!", description="Use \"@LoomiBot catch <Loomian>\" to catch it!")
     embed.set_image(url=f"attachment://{current_spawn}.webp")
@@ -198,7 +229,8 @@ async def catch(ctx, *, loomian):
         await ctx.send("There is no Loomian spawned...")
         return
 
-    current_spawn = current_spawns[server_id]
+    current_spawn = current_spawns[server_id]["name"]
+    rarity = current_spawns[server_id]["rarity"]
 
     if loomian.lower() != current_spawn.lower():
         await ctx.send("Incorrect Loomian, try again!")
@@ -218,7 +250,7 @@ async def catch(ctx, *, loomian):
 
         captured = Loomian(
             owner=user,
-            species_id=loomian_data[current_spawn]["id"],
+            species_id=loomian_data[rarity][current_spawn]["id"],
             level=level
         )
 
@@ -239,7 +271,7 @@ async def hint(ctx):
         await ctx.send("There is no Loomian spawned...")
         return
 
-    current_spawn = current_spawns[server_id]
+    current_spawn = current_spawns[server_id]["name"]
 
     now = datetime.now()
 
@@ -293,7 +325,7 @@ async def loomians(ctx):
     await ctx.send(embed=embed)
 
 @bot.command()
-@commands.has_permissions(administrator=True)
+@admin_or_owner()
 async def setup(ctx):
     await ctx.send("Provide the Channel ID you want Loomians to spawn in.")
 

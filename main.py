@@ -10,6 +10,9 @@ import os
 from database import *
 from tables import *
 
+with open("wiki_queries.json", "r", encoding="utf-8") as file:
+    wiki_queries = json.load(file)
+
 with open("loomian_data.json", "r", encoding="utf-8") as file:
     loomian_data = json.load(file)
 
@@ -17,6 +20,12 @@ loomian_names = {
     data["id"]: name
     for rarity in loomian_data.values()
     for name, data in rarity.items()
+}
+
+loomian_rarities = {
+    name: rarity
+    for rarity, loomians in loomian_data.items()
+    for name in loomians
 }
 
 Base.metadata.create_all(engine)
@@ -143,7 +152,7 @@ async def on_message(message):
 
 @bot.command()
 async def help(ctx):
-    embed = discord.Embed(title="LoomiBot's Commands",
+    embed = discord.Embed(title="__LoomiBot's Commands__",
                           description="- **help** - View commands.\n" \
                                       "- **wiki** <optional: query> - Displays the corresponding Wiki page.\n" \
                                       "- **catch** <loomian> - Attempt to catch the current Loomian.\n" \
@@ -155,18 +164,38 @@ async def help(ctx):
     await ctx.send(embed=embed)
     return
 
+@bot.command(aliases=["log", "cl"])
+async def changelog(ctx):
+    embed = discord.Embed(title="__Changelog__",
+                          description="__7 Aug:__\n"
+                          "- Added rarities to spawns\n"
+                          "- Improved Wiki searching\n" \
+                          "- Bug fixes and improvements"
+                          )
+    await ctx.send(embed=embed)
+    return
+
 @bot.command(aliases=["w"])
 async def wiki(ctx, *, query=None):
     if query is None:
-        await ctx.send("Here is the Official Loomian Legacy Wiki:\nhttps://loomian-legacy.fandom.com/wiki/Loomian_Legacy_Wiki")
+        await ctx.send(
+            "Here is the Official Loomian Legacy Wiki:\n"
+            "https://loomian-legacy.fandom.com/wiki/Loomian_Legacy_Wiki"
+        )
         return
 
-    query = query.title()
+    query = query.lower().replace(" ", "_")
 
-    if query in loomian_data:
-        await ctx.send(f"Here is the Wiki page for {query}:\nhttps://loomian-legacy.fandom.com/wiki/{query}")
-    else:
-        await ctx.send("Invalid Loomian query.")
+    for name, data in wiki_queries.items():
+        if query == name.lower() or query in [alias.lower() for alias in data["aliases"]]:
+            wiki_url = data["url"]
+            name = name.replace("_", " ")
+            await ctx.send(
+                f"Here is the Wiki page for {name}:\n{wiki_url}"
+            )
+            return
+
+    await ctx.send("Invalid Wiki query.")
 
 
 @bot.command()

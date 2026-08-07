@@ -1260,6 +1260,7 @@
         "aliases": [
             "battle",
             "col",
+            "bc",
             "battle_col"
         ]
     },
@@ -1269,6 +1270,7 @@
             "trade",
             "resort",
             "res",
+            "tr",
             "trade_res"
         ]
     },

@@ -154,21 +154,23 @@ async def on_message(message):
 async def help(ctx):
     embed = discord.Embed(title="__LoomiBot's Commands__",
                           description="- **help** - View commands.\n" \
+                                      "- **changelog** - View the most recent updates.\n" \
                                       "- **wiki** <optional: query> - Displays the corresponding Wiki page.\n" \
                                       "- **catch** <loomian> - Attempt to catch the current Loomian.\n" \
                                       "- **hint** - Gives a hint on the current Loomian's name.\n" \
                                       "- **loomians** - Shows your Loomian inventory.\n" \
                                       "- **setup** - (Admin only) Setup the bot.\n" \
                                       "\n" \
-                                      "If you find any bugs or errors, DM @filip5011")
+                                      "If you find any bugs or errors, DM @filip5011"
+                                      )
     await ctx.send(embed=embed)
     return
 
 @bot.command(aliases=["log", "cl"])
 async def changelog(ctx):
     embed = discord.Embed(title="__Changelog__",
-                          description="__7 Aug:__\n"
-                          "- Added rarities to spawns\n"
+                          description="__7 Aug:__\n" \
+                          "- Added rarities to spawns\n" \
                           "- Improved Wiki searching\n" \
                           "- Bug fixes and improvements"
                           )

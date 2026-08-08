@@ -717,7 +717,9 @@
     },
     "Wiki-Wiki": {
         "url": "https://loomian-legacy.fandom.com/wiki/Wiki-Wiki",
-        "aliases": []
+        "aliases": [
+            "wiki_wiki"
+        ]
     },
     "Chartiki": {
         "url": "https://loomian-legacy.fandom.com/wiki/Chartiki",
@@ -725,7 +727,9 @@
     },
     "Waka-Laka": {
         "url": "https://loomian-legacy.fandom.com/wiki/Waka-Laka",
-        "aliases": []
+        "aliases": [
+            "waka_laka"
+        ]
     },
     "Sedimars": {
         "url": "https://loomian-legacy.fandom.com/wiki/Sedimars",
@@ -1333,19 +1337,26 @@
     "Atlanthian_City_-_Transit_Hub": {
         "url": "https://loomian-legacy.fandom.com/wiki/Atlanthian_City_-_Transit_Hub",
         "aliases": [
-            "transit_hub"
+            "transit_hub",
+            "atlanthian_city_transit_hub",
+            "atlanthian_transit_hub",
+            "atlanthian_transit"
         ]
     },
     "Atlanthian_City_-_Living_District": {
         "url": "https://loomian-legacy.fandom.com/wiki/Atlanthian_City_-_Living_District",
         "aliases": [
-            "living_district"
+            "living_district",
+            "atlanthian_city_living_district",
+            "atlanthian_living_district"
         ]
     },
     "Atlanthian_City_-_Entertainment_District": {
         "url": "https://loomian-legacy.fandom.com/wiki/Atlanthian_City_-_Entertainment_District",
         "aliases": [
-            "entertainment_district"
+            "entertainment_district",
+            "atlanthian_city_entertainment_district",
+            "atlanthian_entertainment_district"
         ]
     },
     "Atlanthian_Museum": {
@@ -1401,8 +1412,12 @@
     "Mr._Ferrix's_Mansion": {
         "url": "https://loomian-legacy.fandom.com/wiki/Mr._Ferrix's_Mansion",
         "aliases": [
-            "ferrix",
-            "ferrix_mansion"
+            "mr_ferrixs_mansion",
+            "ferrixs_mansion",
+            "ferrixs",
+            "mr_ferrix_mansion",
+            "ferrix_mansion",
+            "ferrix"
         ]
     },
     "Aranatta_Trench": {
@@ -1468,7 +1483,9 @@
     "Bob's_Pond": {
         "url": "https://loomian-legacy.fandom.com/wiki/Bob's_Pond",
         "aliases": [
+            "bob_pond",
             "bobs_pond",
+            "goppie_pond",
             "pond"
         ]
     },
@@ -1482,8 +1499,12 @@
     "Dr._Haloine's_Nightmare": {
         "url": "https://loomian-legacy.fandom.com/wiki/Dr._Haloine's_Nightmare",
         "aliases": [
+            "haloines",
+            "haloines_nightmare",
+            "dr_haloines_nightmare",
             "haloine",
-            "haloine_nightmare"
+            "haloine_nightmare",
+            "dr_haloine_nightmare"
         ]
     },
     "Jolly_Village": {
@@ -1544,5 +1565,2867 @@
             "the_tempest",
             "forsaken_realm"
         ]
+    },
+    "Accelerate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Accelerate",
+        "aliases": []
+    },
+    "Aim": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Aim",
+        "aliases": []
+    },
+    "Bait": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bait",
+        "aliases": []
+    },
+    "Banana Split": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Banana_Split",
+        "aliases": []
+    },
+    "Barter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Barter",
+        "aliases": []
+    },
+    "Battle Chime": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Battle_Chime",
+        "aliases": []
+    },
+    "Battle Horn": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Battle_Horn",
+        "aliases": []
+    },
+    "Bequeath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bequeath",
+        "aliases": []
+    },
+    "Body Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Body_Slam",
+        "aliases": []
+    },
+    "Brace": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brace",
+        "aliases": []
+    },
+    "Chase Down": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chase_Down",
+        "aliases": []
+    },
+    "Climate Cannon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Climate_Cannon",
+        "aliases": []
+    },
+    "Conclusion": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Conclusion",
+        "aliases": []
+    },
+    "Dawdle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dawdle",
+        "aliases": []
+    },
+    "Daydream": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Daydream",
+        "aliases": []
+    },
+    "Dissonant Chord": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dissonant_Chord",
+        "aliases": []
+    },
+    "Dodge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dodge",
+        "aliases": []
+    },
+    "Drudge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Drudge",
+        "aliases": []
+    },
+    "Ear Slap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ear_Slap",
+        "aliases": []
+    },
+    "Eerie Stare": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Eerie_Stare",
+        "aliases": []
+    },
+    "Enamor": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Enamor",
+        "aliases": []
+    },
+    "Examine": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Examine",
+        "aliases": []
+    },
+    "Give Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Give_Up",
+        "aliases": []
+    },
+    "Gloominous Fangs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gloominous_Fangs",
+        "aliases": []
+    },
+    "Gloominous Roar": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gloominous_Roar",
+        "aliases": []
+    },
+    "Gnaw": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gnaw",
+        "aliases": []
+    },
+    "Growl": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Growl",
+        "aliases": []
+    },
+    "Harmonious Chord": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Harmonious_Chord",
+        "aliases": []
+    },
+    "Hasten": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hasten",
+        "aliases": []
+    },
+    "Headbutt": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Headbutt",
+        "aliases": []
+    },
+    "High-Pitch Screech": {
+        "url": "https://loomian-legacy.fandom.com/wiki/High-Pitch_Screech",
+        "aliases": [
+            "high_pitch_screech"
+        ]
+    },
+    "Hoodwink": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hoodwink",
+        "aliases": []
+    },
+    "Hullabaloo": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hullabaloo",
+        "aliases": []
+    },
+    "Ill Will": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ill_Will",
+        "aliases": []
+    },
+    "Nab": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nab",
+        "aliases": []
+    },
+    "Pounce": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pounce",
+        "aliases": []
+    },
+    "Power Focus": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Focus",
+        "aliases": []
+    },
+    "Quick Pounce": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Quick_Pounce",
+        "aliases": []
+    },
+    "Raging Howl": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Raging_Howl",
+        "aliases": []
+    },
+    "Raging Tackle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Raging_Tackle",
+        "aliases": []
+    },
+    "Rainbow Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rainbow_Blast",
+        "aliases": []
+    },
+    "Recycle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Recycle",
+        "aliases": []
+    },
+    "Rejuvenate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rejuvenate",
+        "aliases": []
+    },
+    "Repeating Tune": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Repeating_Tune",
+        "aliases": []
+    },
+    "Resonate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Resonate",
+        "aliases": []
+    },
+    "Safeguard": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Safeguard",
+        "aliases": []
+    },
+    "Scapegoat": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Scapegoat",
+        "aliases": []
+    },
+    "Shriek": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shriek",
+        "aliases": []
+    },
+    "Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slash",
+        "aliases": []
+    },
+    "Slumber": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slumber",
+        "aliases": []
+    },
+    "Spare": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spare",
+        "aliases": []
+    },
+    "Spit": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spit",
+        "aliases": []
+    },
+    "Spit Out": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spit_Out",
+        "aliases": []
+    },
+    "Squawk": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Squawk",
+        "aliases": []
+    },
+    "Stampede": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stampede",
+        "aliases": []
+    },
+    "Stare": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stare",
+        "aliases": []
+    },
+    "Stretch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stretch",
+        "aliases": []
+    },
+    "Strike": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Strike",
+        "aliases": []
+    },
+    "Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Summon",
+        "aliases": []
+    },
+    "Swipe": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Swipe",
+        "aliases": []
+    },
+    "Tail Slap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tail_Slap",
+        "aliases": []
+    },
+    "Teamwork": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Teamwork",
+        "aliases": []
+    },
+    "Tear Down": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tear_Down",
+        "aliases": []
+    },
+    "Tone Barrier": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tone_Barrier",
+        "aliases": []
+    },
+    "Tribute": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tribute",
+        "aliases": []
+    },
+    "Blaze Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blaze_Chomp",
+        "aliases": []
+    },
+    "Blaze of Glory": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blaze_of_Glory",
+        "aliases": [
+            "bog"
+        ]
+    },
+    "Blaze Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blaze_Punch",
+        "aliases": []
+    },
+    "Blaze Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blaze_Rush",
+        "aliases": []
+    },
+    "Boiling Press": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Boiling_Press",
+        "aliases": []
+    },
+    "Burn Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Burn_Up",
+        "aliases": []
+    },
+    "Charred Claws": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Charred_Claws",
+        "aliases": []
+    },
+    "Eruption": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Eruption",
+        "aliases": []
+    },
+    "Fiery Fondant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fiery_Fondant",
+        "aliases": []
+    },
+    "Fire Breath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fire_Breath",
+        "aliases": []
+    },
+    "Fire Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fire_Slam",
+        "aliases": []
+    },
+    "Flaming Kick": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flaming_Kick",
+        "aliases": []
+    },
+    "Flare Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flare_Blast",
+        "aliases": []
+    },
+    "Heat Wave": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heat_Wave",
+        "aliases": []
+    },
+    "Hellstorm": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hellstorm",
+        "aliases": []
+    },
+    "Incinerate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Incinerate",
+        "aliases": []
+    },
+    "Kindled Rage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Kindled_Rage",
+        "aliases": []
+    },
+    "Lava Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lava_Slash",
+        "aliases": []
+    },
+    "Magma Block": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Magma_Block",
+        "aliases": []
+    },
+    "Magma Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Magma_Burst",
+        "aliases": []
+    },
+    "Meltdown": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Meltdown",
+        "aliases": []
+    },
+    "Pepper Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pepper_Burst",
+        "aliases": []
+    },
+    "Phoenix Flame": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Phoenix_Flame",
+        "aliases": []
+    },
+    "Pyrokinesis": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pyrokinesis",
+        "aliases": []
+    },
+    "Raging Flame": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Raging_Flame",
+        "aliases": []
+    },
+    "Rapid Fire": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rapid_Fire",
+        "aliases": []
+    },
+    "Singe": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Singe",
+        "aliases": []
+    },
+    "Aqua Jaws": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Aqua_Jaws",
+        "aliases": []
+    },
+    "Douse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Douse",
+        "aliases": []
+    },
+    "Downpour": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Downpour",
+        "aliases": []
+    },
+    "Geyser": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Geyser",
+        "aliases": []
+    },
+    "Gulp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gulp",
+        "aliases": []
+    },
+    "Heedless Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heedless_Rush",
+        "aliases": []
+    },
+    "Hydro Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hydro_Blast",
+        "aliases": []
+    },
+    "Hydro Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hydro_Slash",
+        "aliases": []
+    },
+    "Maroon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Maroon",
+        "aliases": []
+    },
+    "Marsh Wave": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Marsh_Wave",
+        "aliases": []
+    },
+    "Piercing Drive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Piercing_Drive",
+        "aliases": []
+    },
+    "Plunge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Plunge",
+        "aliases": []
+    },
+    "Sea Song": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sea_Song",
+        "aliases": []
+    },
+    "Shell Bash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shell_Bash",
+        "aliases": []
+    },
+    "Shell Shrapnel": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shell_Shrapnel",
+        "aliases": []
+    },
+    "Soft Water": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Soft_Water",
+        "aliases": []
+    },
+    "Spray": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spray",
+        "aliases": []
+    },
+    "Submerge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Submerge",
+        "aliases": []
+    },
+    "Torrential Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Torrential_Slash",
+        "aliases": []
+    },
+    "Tsunami": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tsunami",
+        "aliases": []
+    },
+    "Vicious Snap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vicious_Snap",
+        "aliases": []
+    },
+    "Water Bomb": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Water_Bomb",
+        "aliases": []
+    },
+    "Wave Wrecker": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wave_Wrecker",
+        "aliases": []
+    },
+    "Briar Block": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Briar_Block",
+        "aliases": []
+    },
+    "Bush Whack": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bush_Whack",
+        "aliases": []
+    },
+    "Carnivorous Snap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Carnivorous_Snap",
+        "aliases": []
+    },
+    "Coconut Bomb": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Coconut_Bomb",
+        "aliases": []
+    },
+    "Flora Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flora_Blast",
+        "aliases": []
+    },
+    "Fungus Curse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fungus_Curse",
+        "aliases": []
+    },
+    "Harvest": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Harvest",
+        "aliases": []
+    },
+    "Herbal Remedy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Herbal_Remedy",
+        "aliases": []
+    },
+    "Leaf Barrage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Leaf_Barrage",
+        "aliases": []
+    },
+    "Life Drain": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Life_Drain",
+        "aliases": []
+    },
+    "Nature's Force": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nature%27s_Force",
+        "aliases": [
+            "natures_force",
+            "nature_force"
+        ]
+    },
+    "Nature's Rage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nature%27s_Rage",
+        "aliases": [
+            "natures_rage",
+            "nature_rage"
+        ]
+    },
+    "Petal Pummel": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Petal_Pummel",
+        "aliases": []
+    },
+    "Photosynthesis": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Photosynthesis",
+        "aliases": []
+    },
+    "Pine Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pine_Shot",
+        "aliases": []
+    },
+    "Sap Plant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sap_Plant",
+        "aliases": []
+    },
+    "Snore Spores": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Snore_Spores",
+        "aliases": []
+    },
+    "Static Spores": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Static_Spores",
+        "aliases": []
+    },
+    "Take Root": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Take_Root",
+        "aliases": []
+    },
+    "Thistle Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thistle_Slash",
+        "aliases": []
+    },
+    "Thorn Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thorn_Slam",
+        "aliases": []
+    },
+    "Timber Thrash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Timber_Thrash",
+        "aliases": []
+    },
+    "Trip Root": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Trip_Root",
+        "aliases": []
+    },
+    "Vine Lash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vine_Lash",
+        "aliases": []
+    },
+    "Wonder Herb": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wonder_Herb",
+        "aliases": []
+    },
+    "Blindspot Batter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blindspot_Batter",
+        "aliases": []
+    },
+    "Dazzling Barrage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dazzling_Barrage",
+        "aliases": []
+    },
+    "Disperse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Disperse",
+        "aliases": []
+    },
+    "Energy Surge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Energy_Surge",
+        "aliases": []
+    },
+    "Flare": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flare",
+        "aliases": []
+    },
+    "Flash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flash",
+        "aliases": []
+    },
+    "Flash 'n Flee": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flash_%27n_Flee",
+        "aliases": [
+            "fnf",
+            "flash_n_flee"
+        ]
+    },
+    "Flash Pulse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flash_Pulse",
+        "aliases": []
+    },
+    "Gamma Pulse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gamma_Pulse",
+        "aliases": []
+    },
+    "Hyper Sting": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hyper_Sting",
+        "aliases": []
+    },
+    "Light Dash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Light_Dash",
+        "aliases": []
+    },
+    "Lightspeed Ray": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lightspeed_Ray",
+        "aliases": []
+    },
+    "Luminous Roar": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Luminous_Roar",
+        "aliases": []
+    },
+    "Luster Loot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Luster_Loot",
+        "aliases": []
+    },
+    "Magnify": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Magnify",
+        "aliases": []
+    },
+    "Miracle Beam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Miracle_Beam",
+        "aliases": []
+    },
+    "Nova Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nova_Blast",
+        "aliases": []
+    },
+    "Radiant Forecast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Radiant_Forecast",
+        "aliases": []
+    },
+    "Radiant Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Radiant_Rush",
+        "aliases": []
+    },
+    "Shine": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shine",
+        "aliases": []
+    },
+    "Solar Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Solar_Punch",
+        "aliases": []
+    },
+    "Swiften": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Swiften",
+        "aliases": []
+    },
+    "Aggravate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Aggravate",
+        "aliases": []
+    },
+    "Baffle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Baffle",
+        "aliases": []
+    },
+    "Bag of Tricks": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bag_of_Tricks",
+        "aliases": []
+    },
+    "Bamboozle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bamboozle",
+        "aliases": []
+    },
+    "Blood Drain": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blood_Drain",
+        "aliases": []
+    },
+    "Charade": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Charade",
+        "aliases": []
+    },
+    "Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chomp",
+        "aliases": []
+    },
+    "Dark Surge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dark_Surge",
+        "aliases": []
+    },
+    "Dive Bomb": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dive_Bomb",
+        "aliases": []
+    },
+    "Egg Lob": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Egg_Lob",
+        "aliases": []
+    },
+    "Egg Onslaught": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Egg_Onslaught",
+        "aliases": []
+    },
+    "Egg Storm": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Egg_Storm",
+        "aliases": []
+    },
+    "Gain Drain": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gain_Drain",
+        "aliases": []
+    },
+    "Gloom Fangs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gloom_Fangs",
+        "aliases": []
+    },
+    "Gnarly Gash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gnarly_Gash",
+        "aliases": []
+    },
+    "Last Laugh": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Last_Laugh",
+        "aliases": []
+    },
+    "Mega Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mega_Chomp",
+        "aliases": []
+    },
+    "Pilfer": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pilfer",
+        "aliases": []
+    },
+    "Provoke": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Provoke",
+        "aliases": []
+    },
+    "Rant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rant",
+        "aliases": []
+    },
+    "Revolution": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Revolution",
+        "aliases": []
+    },
+    "Shadow Lurk": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shadow_Lurk",
+        "aliases": []
+    },
+    "Shadow Pulse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shadow_Pulse",
+        "aliases": []
+    },
+    "Sharpen": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sharpen",
+        "aliases": []
+    },
+    "Sinister Shackles": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sinister_Shackles",
+        "aliases": []
+    },
+    "Slap Down": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slap_Down",
+        "aliases": []
+    },
+    "Soul Drain": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Soul_Drain",
+        "aliases": []
+    },
+    "Square One": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Square_One",
+        "aliases": []
+    },
+    "Talent Trade": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Talent_Trade",
+        "aliases": []
+    },
+    "Tricky Tactics": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tricky_Tactics",
+        "aliases": []
+    },
+    "Tease": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tease",
+        "aliases": []
+    },
+    "Bitter Cold": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bitter_Cold",
+        "aliases": []
+    },
+    "Brain Freeze": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brain_Freeze",
+        "aliases": []
+    },
+    "Chilly Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chilly_Chomp",
+        "aliases": []
+    },
+    "Deep Freeze": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Deep_Freeze",
+        "aliases": []
+    },
+    "Flurry": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flurry",
+        "aliases": []
+    },
+    "Frost Beam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frost_Beam",
+        "aliases": []
+    },
+    "Frost Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frost_Blast",
+        "aliases": []
+    },
+    "Frost Breath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frost_Breath",
+        "aliases": []
+    },
+    "Frost Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frost_Punch",
+        "aliases": []
+    },
+    "Ice Hammer": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ice_Hammer",
+        "aliases": []
+    },
+    "Icicle Fangs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Icicle_Fangs",
+        "aliases": []
+    },
+    "Icicle Trap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Icicle_Trap",
+        "aliases": []
+    },
+    "Icicle Tremor": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Icicle_Tremor",
+        "aliases": []
+    },
+    "Out of Order": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Out_of_Order",
+        "aliases": []
+    },
+    "Peppermint Breath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Peppermint_Breath",
+        "aliases": []
+    },
+    "Sleet Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sleet_Shot",
+        "aliases": []
+    },
+    "Snot Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Snot_Shot",
+        "aliases": []
+    },
+    "Snowdozer": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Snowdozer",
+        "aliases": []
+    },
+    "Spike Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spike_Rush",
+        "aliases": []
+    },
+    "Winter's Fury": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Winter%27s_Fury",
+        "aliases": [
+            "winters_fury",
+            "winter_fury"
+        ]
+    },
+    "Electro Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Electro_Blast",
+        "aliases": []
+    },
+    "Electro-Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Electro-Punch",
+        "aliases": [
+            "electro_punch"
+        ]
+    },
+    "Electroburst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Electroburst",
+        "aliases": []
+    },
+    "Energize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Energize",
+        "aliases": []
+    },
+    "Fulgur Fangs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fulgur_Fangs",
+        "aliases": []
+    },
+    "Jolt": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Jolt",
+        "aliases": []
+    },
+    "Jump Start": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Jump_Start",
+        "aliases": []
+    },
+    "Power Draw": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Draw",
+        "aliases": []
+    },
+    "Power Siphon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Siphon",
+        "aliases": []
+    },
+    "Power Surge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Surge",
+        "aliases": []
+    },
+    "Precision Bolt": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Precision_Bolt",
+        "aliases": []
+    },
+    "Static Shock": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Static_Shock",
+        "aliases": []
+    },
+    "Storm Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Storm_Summon",
+        "aliases": []
+    },
+    "Stun": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stun",
+        "aliases": []
+    },
+    "Tase": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tase",
+        "aliases": []
+    },
+    "Thunder Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Blast",
+        "aliases": []
+    },
+    "Thunder Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Chomp",
+        "aliases": []
+    },
+    "Thunder Clap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Clap",
+        "aliases": []
+    },
+    "Thunder Crash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Crash",
+        "aliases": []
+    },
+    "Thunder Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Slam",
+        "aliases": []
+    },
+    "Thunderstorm": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunderstorm",
+        "aliases": []
+    },
+    "Thunderstrike": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunderstrike",
+        "aliases": []
+    },
+    "Zip-Zap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Zip-Zap",
+        "aliases": [
+            "zip_zap"
+        ]
+    },
+    "Air Blade": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Air_Blade",
+        "aliases": []
+    },
+    "Air Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Air_Shot",
+        "aliases": []
+    },
+    "Air Whip": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Air_Whip",
+        "aliases": []
+    },
+    "Cyclone Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Cyclone_Slam",
+        "aliases": []
+    },
+    "Double Beat": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Double_Beat",
+        "aliases": []
+    },
+    "Gale Force": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gale_Force",
+        "aliases": []
+    },
+    "Gust": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gust",
+        "aliases": []
+    },
+    "Jet Stream": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Jet_Stream",
+        "aliases": []
+    },
+    "Nosedive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nosedive",
+        "aliases": []
+    },
+    "Peck": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Peck",
+        "aliases": []
+    },
+    "Perch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Perch",
+        "aliases": []
+    },
+    "Ruffled Feathers": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ruffled_Feathers",
+        "aliases": []
+    },
+    "Scavenge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Scavenge",
+        "aliases": []
+    },
+    "Second Wind": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Second_Wind",
+        "aliases": []
+    },
+    "Tempest": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tempest",
+        "aliases": []
+    },
+    "Typhoon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Typhoon",
+        "aliases": []
+    },
+    "Wing Slap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wing_Slap",
+        "aliases": []
+    },
+    "Battering Ram": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Battering_Ram",
+        "aliases": []
+    },
+    "Bug Bite": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bug_Bite",
+        "aliases": []
+    },
+    "Clamp Claw": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clamp_Claw",
+        "aliases": []
+    },
+    "Counter Poise": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Counter_Poise",
+        "aliases": []
+    },
+    "Discordance": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Discordance",
+        "aliases": []
+    },
+    "Double Sting": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Double_Sting",
+        "aliases": []
+    },
+    "Lunge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lunge",
+        "aliases": []
+    },
+    "Molt": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Molt",
+        "aliases": []
+    },
+    "Mystic Breeze": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mystic_Breeze",
+        "aliases": []
+    },
+    "Parasitize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Parasitize",
+        "aliases": []
+    },
+    "Pester": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pester",
+        "aliases": []
+    },
+    "Pestilence": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pestilence",
+        "aliases": []
+    },
+    "Pheroblast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pheroblast",
+        "aliases": []
+    },
+    "Savage Horn": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Savage_Horn",
+        "aliases": []
+    },
+    "Twirly Whirl": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Twirly_Whirl",
+        "aliases": []
+    },
+    "Web Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Web_Shot",
+        "aliases": []
+    },
+    "Boulder Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Boulder_Blast",
+        "aliases": []
+    },
+    "Burrow": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Burrow",
+        "aliases": []
+    },
+    "Capriole": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Capriole",
+        "aliases": []
+    },
+    "Clay Slap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clay_Slap",
+        "aliases": []
+    },
+    "Earthquake": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Earthquake",
+        "aliases": []
+    },
+    "Landslide": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Landslide",
+        "aliases": []
+    },
+    "Muck Buck": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Muck_Buck",
+        "aliases": []
+    },
+    "Mud Spatter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mud_Spatter",
+        "aliases": []
+    },
+    "Mudslide": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mudslide",
+        "aliases": []
+    },
+    "Pebble Toss": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pebble_Toss",
+        "aliases": []
+    },
+    "Quicksand": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Quicksand",
+        "aliases": []
+    },
+    "Rock Slide": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rock_Slide",
+        "aliases": []
+    },
+    "Tamp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tamp",
+        "aliases": []
+    },
+    "Undermine": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Undermine",
+        "aliases": []
+    },
+    "Yeti's Wrath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Yeti%27s_Wrath",
+        "aliases": [
+            "yetis_wrath",
+            "yeti_wrath"
+        ]
+    },
+    "Baneful Bash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Baneful_Bash",
+        "aliases": []
+    },
+    "Barb Trap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Barb_Trap",
+        "aliases": []
+    },
+    "Bone Crunch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bone_Crunch",
+        "aliases": []
+    },
+    "Canister Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Canister_Burst",
+        "aliases": []
+    },
+    "Corrode": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Corrode",
+        "aliases": []
+    },
+    "Gobble Goop": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gobble_Goop",
+        "aliases": []
+    },
+    "Graffiti": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Graffiti",
+        "aliases": []
+    },
+    "Muck Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Muck_Blast",
+        "aliases": []
+    },
+    "Oil Leak": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Oil_Leak",
+        "aliases": []
+    },
+    "Paint Shower": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Paint_Shower",
+        "aliases": []
+    },
+    "Poison": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Poison",
+        "aliases": []
+    },
+    "Poison Barbs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Poison_Barbs",
+        "aliases": []
+    },
+    "Slime": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slime",
+        "aliases": []
+    },
+    "Sting": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sting",
+        "aliases": []
+    },
+    "Toxiblast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxiblast",
+        "aliases": []
+    },
+    "Toxic Spores": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Spores",
+        "aliases": []
+    },
+    "Toxic Tail": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Tail",
+        "aliases": []
+    },
+    "Venom Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Venom_Chomp",
+        "aliases": []
+    },
+    "Venom Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Venom_Slash",
+        "aliases": []
+    },
+    "Airstrike": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Airstrike",
+        "aliases": []
+    },
+    "Armor Down": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Armor_Down",
+        "aliases": []
+    },
+    "Barbs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Barbs",
+        "aliases": []
+    },
+    "Bash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bash",
+        "aliases": []
+    },
+    "Clamp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clamp",
+        "aliases": []
+    },
+    "Clean Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clean_Up",
+        "aliases": []
+    },
+    "Complete Demolition": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Complete_Demolition",
+        "aliases": []
+    },
+    "Cosmic Chime": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Cosmic_Chime",
+        "aliases": []
+    },
+    "Dart Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dart_Burst",
+        "aliases": []
+    },
+    "Double Whack": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Double_Whack",
+        "aliases": []
+    },
+    "Heavy Bash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heavy_Bash",
+        "aliases": []
+    },
+    "Holy Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Holy_Slash",
+        "aliases": []
+    },
+    "Metal Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metal_Blast",
+        "aliases": []
+    },
+    "Metal Shriek": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metal_Shriek",
+        "aliases": []
+    },
+    "Metal Swipes": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metal_Swipes",
+        "aliases": []
+    },
+    "Razor Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Razor_Slash",
+        "aliases": []
+    },
+    "Reflection Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Reflection_Burst",
+        "aliases": []
+    },
+    "Ruthless Feast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ruthless_Feast",
+        "aliases": []
+    },
+    "Searing Steel": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Searing_Steel",
+        "aliases": []
+    },
+    "Shard Storm": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shard_Storm",
+        "aliases": []
+    },
+    "Steel Crusher": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Steel_Crusher",
+        "aliases": []
+    },
+    "Steel Trap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Steel_Trap",
+        "aliases": []
+    },
+    "Tune-up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tune-up",
+        "aliases": [
+            "tune_up"
+        ]
+    },
+    "Vice Jaws": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vice_Jaws",
+        "aliases": []
+    },
+    "Ancient Roar": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ancient_Roar",
+        "aliases": []
+    },
+    "Augment": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Augment",
+        "aliases": []
+    },
+    "Bane of Haste": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bane_of_Haste",
+        "aliases": [
+            "boh"
+        ]
+    },
+    "Beast's Slumber": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Beast%27s_Slumber",
+        "aliases": [
+            "beasts_slumber",
+            "beast_slumber"
+        ]
+    },
+    "Confound": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Confound",
+        "aliases": []
+    },
+    "Dino Claws": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dino_Claws",
+        "aliases": []
+    },
+    "Draco Beam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Draco_Beam",
+        "aliases": []
+    },
+    "Elemental Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Elemental_Burst",
+        "aliases": []
+    },
+    "Energy Break": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Energy_Break",
+        "aliases": []
+    },
+    "Far Enchantment": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Far_Enchantment",
+        "aliases": []
+    },
+    "Goop Spout": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Goop_Spout",
+        "aliases": []
+    },
+    "Meteor Crash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Meteor_Crash",
+        "aliases": []
+    },
+    "Meteor Smash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Meteor_Smash",
+        "aliases": []
+    },
+    "Near Enchantment": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Near_Enchantment",
+        "aliases": []
+    },
+    "Outburst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Outburst",
+        "aliases": []
+    },
+    "Primal Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Primal_Slash",
+        "aliases": []
+    },
+    "Savage Greed": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Savage_Greed",
+        "aliases": []
+    },
+    "Shrewd Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shrewd_Blast",
+        "aliases": []
+    },
+    "Apparition": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Apparition",
+        "aliases": []
+    },
+    "Emulate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Emulate",
+        "aliases": []
+    },
+    "Fade Away": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fade_Away",
+        "aliases": []
+    },
+    "Final Ruse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Final_Ruse",
+        "aliases": []
+    },
+    "Frightful Surprise": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frightful_Surprise",
+        "aliases": []
+    },
+    "Ghostly Howl": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ghostly_Howl",
+        "aliases": []
+    },
+    "Harrow": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Harrow",
+        "aliases": []
+    },
+    "Hazy Shroud": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hazy_Shroud",
+        "aliases": []
+    },
+    "Impersonate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Impersonate",
+        "aliases": []
+    },
+    "Oppress": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Oppress",
+        "aliases": []
+    },
+    "Phantom Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Phantom_Blast",
+        "aliases": []
+    },
+    "Phantom Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Phantom_Slash",
+        "aliases": []
+    },
+    "Revival": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Revival",
+        "aliases": []
+    },
+    "Shadow Sprint": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shadow_Sprint",
+        "aliases": []
+    },
+    "Shatter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shatter",
+        "aliases": []
+    },
+    "Soul Harvest": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Soul_Harvest",
+        "aliases": []
+    },
+    "Soul Storm": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Soul_Storm",
+        "aliases": []
+    },
+    "Spectral Burst": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spectral_Burst",
+        "aliases": []
+    },
+    "Spite": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spite",
+        "aliases": []
+    },
+    "Startle": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Startle",
+        "aliases": []
+    },
+    "Stupefy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stupefy",
+        "aliases": []
+    },
+    "Trick Shot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Trick_Shot",
+        "aliases": []
+    },
+    "Banana Slam": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Banana_Slam",
+        "aliases": []
+    },
+    "Bludgeon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bludgeon",
+        "aliases": []
+    },
+    "Body Crash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Body_Crash",
+        "aliases": []
+    },
+    "Boom Bash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Boom_Bash",
+        "aliases": []
+    },
+    "Brawn Boost": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brawn_Boost",
+        "aliases": []
+    },
+    "Buck Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Buck_Up",
+        "aliases": []
+    },
+    "Bulk Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bulk_Up",
+        "aliases": []
+    },
+    "Chop": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chop",
+        "aliases": []
+    },
+    "Clawber": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clawber",
+        "aliases": []
+    },
+    "Counter Stance": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Counter_Stance",
+        "aliases": []
+    },
+    "Driving Force": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Driving_Force",
+        "aliases": []
+    },
+    "Heart Break": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heart_Break",
+        "aliases": []
+    },
+    "Hop Kick": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hop_Kick",
+        "aliases": []
+    },
+    "Horn-Dashi": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Horn-Dashi",
+        "aliases": [
+            "horn_dashi"
+        ]
+    },
+    "Junglejutsu": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Junglejutsu",
+        "aliases": []
+    },
+    "Mega Kick": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mega_Kick",
+        "aliases": []
+    },
+    "Mega Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mega_Punch",
+        "aliases": []
+    },
+    "Pep Jab": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pep_Jab",
+        "aliases": []
+    },
+    "Preemptive Strike": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Preemptive_Strike",
+        "aliases": []
+    },
+    "Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Punch",
+        "aliases": []
+    },
+    "Quick Punch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Quick_Punch",
+        "aliases": []
+    },
+    "Rogue Assault": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rogue_Assault",
+        "aliases": []
+    },
+    "Rough Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rough_Up",
+        "aliases": []
+    },
+    "Shadowbox": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shadowbox",
+        "aliases": []
+    },
+    "Swat": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Swat",
+        "aliases": []
+    },
+    "Vital Jab": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vital_Jab",
+        "aliases": []
+    },
+    "Vital Surge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vital_Surge",
+        "aliases": []
+    },
+    "Brain Exercise": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brain_Exercise",
+        "aliases": []
+    },
+    "Brainwash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brainwash",
+        "aliases": []
+    },
+    "Cerebral Slash": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Cerebral_Slash",
+        "aliases": []
+    },
+    "Déjà Vu": {
+        "url": "https://loomian-legacy.fandom.com/wiki/D%C3%A9j%C3%A0_Vu",
+        "aliases": [
+            "deja_vu"
+        ]
+    },
+    "Dissipate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dissipate",
+        "aliases": []
+    },
+    "Empathize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Empathize",
+        "aliases": []
+    },
+    "Flabbergast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flabbergast",
+        "aliases": []
+    },
+    "Foul Chant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Foul_Chant",
+        "aliases": []
+    },
+    "Health Gift": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Health_Gift",
+        "aliases": []
+    },
+    "Hypnotize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hypnotize",
+        "aliases": [
+            "hypno"
+        ]
+    },
+    "Judgement": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Judgement",
+        "aliases": []
+    },
+    "Memorize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Memorize",
+        "aliases": []
+    },
+    "Mind Drain": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mind_Drain",
+        "aliases": []
+    },
+    "Mind's Eye": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mind%27s_Eye",
+        "aliases": [
+            "minds_eye",
+            "mind_eye"
+        ]
+    },
+    "Peace of Mind": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Peace_of_Mind",
+        "aliases": [
+            "pom"
+        ]
+    },
+    "Psychal Chomp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Psychal_Chomp",
+        "aliases": []
+    },
+    "Psychal Slap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Psychal_Slap",
+        "aliases": []
+    },
+    "Psycho Blast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Psycho_Blast",
+        "aliases": []
+    },
+    "Return to Sender": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Return_to_Sender",
+        "aliases": []
+    },
+    "Splitting Headache": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Splitting_Headache",
+        "aliases": []
+    },
+    "Stratagem": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Stratagem",
+        "aliases": []
+    },
+    "Telekinetic Sweep": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Telekinetic_Sweep",
+        "aliases": []
+    },
+    "Adaptive Assault": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Adaptive_Assault",
+        "aliases": []
+    },
+    "Expert Onslaught": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Expert_Onslaught",
+        "aliases": []
+    },
+    "Support": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Category:Support_Moves",
+        "aliases": [
+            "support_moves"
+        ]
+    },
+    "Melee": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Category:Melee_Moves",
+        "aliases": [
+            "melee_moves"
+        ]
+    },
+    "Ranged": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Category:Ranged_Moves",
+        "aliases": [
+            "ranged_moves"
+        ]
+    },
+    "Bomb-like attacks": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Category:Explosive_Moves",
+        "aliases": [
+            "bomb_like_attacks",
+            "explosive_moves",
+            "explosive",
+            "bomb"
+        ]
+    },
+    "Simple": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Simple_Type",
+        "aliases": [
+            "simple_type"
+        ]
+    },
+    "Fire": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fire_Type",
+        "aliases": [
+            "fire_type"
+        ]
+    },
+    "Water": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Water_Type",
+        "aliases": [
+            "water_type"
+        ]
+    },
+    "Plant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Plant_Type",
+        "aliases": [
+            "plant_type"
+        ]
+    },
+    "Light": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Light_Type",
+        "aliases": [
+            "light_type"
+        ]
+    },
+    "Dark": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dark_Type",
+        "aliases": [
+            "dark_type"
+        ]
+    },
+    "Ice": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ice_Type",
+        "aliases": [
+            "ice_type"
+        ]
+    },
+    "Electric": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Electric_Type",
+        "aliases": [
+            "electric_type"
+        ]
+    },
+    "Air": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Air_Type",
+        "aliases": [
+            "air_type"
+        ]
+    },
+    "Bug": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bug_Type",
+        "aliases": [
+            "bug_type"
+        ]
+    },
+    "Earth": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Earth_Type",
+        "aliases": [
+            "earth_type"
+        ]
+    },
+    "Toxic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Type",
+        "aliases": [
+            "toxic_type"
+        ]
+    },
+    "Metal": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metal_Type",
+        "aliases": [
+            "metal_type"
+        ]
+    },
+    "Ancient": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ancient_Type",
+        "aliases": [
+            "ancient_type"
+        ]
+    },
+    "Spirit": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spirit_Type",
+        "aliases": [
+            "spirit_type"
+        ]
+    },
+    "Brawler": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brawler_Type",
+        "aliases": [
+            "brawler_type"
+        ]
+    },
+    "Mind": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mind_Type",
+        "aliases": [
+            "mind_type"
+        ]
+    },
+    "Various": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Loomian_Type",
+        "aliases": [
+            "various_type"
+        ]
+    },
+    "Ability Thief": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ability_Thief",
+        "aliases": []
+    },
+    "Ace": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ace",
+        "aliases": []
+    },
+    "Adaptable": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Adaptable",
+        "aliases": []
+    },
+    "Adorable": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Adorable",
+        "aliases": []
+    },
+    "Aggressive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Aggressive",
+        "aliases": []
+    },
+    "All Seeing": {
+        "url": "https://loomian-legacy.fandom.com/wiki/All_Seeing",
+        "aliases": []
+    },
+    "Ambush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ambush",
+        "aliases": []
+    },
+    "Analyze": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Analyze",
+        "aliases": []
+    },
+    "Anomaly": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Anomaly",
+        "aliases": []
+    },
+    "Appetite": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Appetite",
+        "aliases": []
+    },
+    "Applied Frustration": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Applied_Frustration",
+        "aliases": []
+    },
+    "Apprehension": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Apprehension",
+        "aliases": []
+    },
+    "Aqua Body": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Aqua_Body",
+        "aliases": []
+    },
+    "Assertive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Assertive",
+        "aliases": []
+    },
+    "Awakening": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Awakening",
+        "aliases": []
+    },
+    "Baneful": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Baneful",
+        "aliases": []
+    },
+    "Battle Armor": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Battle_Armor",
+        "aliases": []
+    },
+    "Berserk": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Berserk",
+        "aliases": []
+    },
+    "Bitter Touch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bitter_Touch",
+        "aliases": []
+    },
+    "Blistering Heat": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Blistering_Heat",
+        "aliases": []
+    },
+    "Bloodsucker": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bloodsucker",
+        "aliases": []
+    },
+    "Boast": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Boast",
+        "aliases": []
+    },
+    "Boneheaded": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Boneheaded",
+        "aliases": []
+    },
+    "Brutal Wrath": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brutal_Wrath",
+        "aliases": []
+    },
+    "Brute Force": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Brute_Force",
+        "aliases": []
+    },
+    "Bug Fever": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bug_Fever",
+        "aliases": []
+    },
+    "Bully": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bully",
+        "aliases": []
+    },
+    "Burglar": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Burglar",
+        "aliases": []
+    },
+    "Burning Rage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Burning_Rage",
+        "aliases": []
+    },
+    "Bursting Seams": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Bursting_Seams",
+        "aliases": []
+    },
+    "Caddie": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Caddie",
+        "aliases": []
+    },
+    "Captivating": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Captivating",
+        "aliases": []
+    },
+    "Carol": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Carol",
+        "aliases": []
+    },
+    "Chaperone": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chaperone",
+        "aliases": []
+    },
+    "Charged Arc": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Charged_Arc",
+        "aliases": []
+    },
+    "Chill": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chill",
+        "aliases": []
+    },
+    "Chilling Passion": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Chilling_Passion",
+        "aliases": []
+    },
+    "Circadian": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Circadian",
+        "aliases": []
+    },
+    "Clingy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clingy",
+        "aliases": []
+    },
+    "Clutch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Clutch",
+        "aliases": []
+    },
+    "Combative": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Combative",
+        "aliases": []
+    },
+    "Combustible": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Combustible",
+        "aliases": []
+    },
+    "Communication": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Communication",
+        "aliases": []
+    },
+    "Compliant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Compliant",
+        "aliases": []
+    },
+    "Confidence": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Confidence",
+        "aliases": []
+    },
+    "Conspire": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Conspire",
+        "aliases": []
+    },
+    "Contact Curse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Contact_Curse",
+        "aliases": []
+    },
+    "Cosmic Pressure": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Cosmic_Pressure",
+        "aliases": []
+    },
+    "Coursing Venom": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Coursing_Venom",
+        "aliases": []
+    },
+    "Dauntless": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dauntless",
+        "aliases": []
+    },
+    "Dawn": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dawn",
+        "aliases": []
+    },
+    "Deep Frostbite": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Deep_Frostbite",
+        "aliases": []
+    },
+    "Defensive Priority": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Defensive_Priority",
+        "aliases": []
+    },
+    "Demanding": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Demanding",
+        "aliases": []
+    },
+    "Depths-Borne": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Depths-Borne",
+        "aliases": [
+            "depths_borne"
+        ]
+    },
+    "Designated Chompers": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Designated_Chompers",
+        "aliases": []
+    },
+    "Devious": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Devious",
+        "aliases": []
+    },
+    "Disenchant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Disenchant",
+        "aliases": []
+    },
+    "Do or Die": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Do_or_Die",
+        "aliases": []
+    },
+    "Double Strike": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Double_Strike",
+        "aliases": []
+    },
+    "Drainage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Drainage",
+        "aliases": []
+    },
+    "Driven": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Driven",
+        "aliases": []
+    },
+    "Dummy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dummy",
+        "aliases": []
+    },
+    "Dusk": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Dusk",
+        "aliases": []
+    },
+    "Eager": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Eager",
+        "aliases": []
+    },
+    "Early Bird": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Early_Bird",
+        "aliases": []
+    },
+    "Effulgent": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Effulgent",
+        "aliases": []
+    },
+    "Elusive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Elusive",
+        "aliases": []
+    },
+    "Enchant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Enchant",
+        "aliases": []
+    },
+    "Enchanted Coat": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Enchanted_Coat",
+        "aliases": []
+    },
+    "Expertise": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Expertise",
+        "aliases": []
+    },
+    "Facade": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Facade",
+        "aliases": []
+    },
+    "Fanning Flame": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fanning_Flame",
+        "aliases": []
+    },
+    "Festive Spirit": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Festive_Spirit",
+        "aliases": []
+    },
+    "Finesse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Finesse",
+        "aliases": []
+    },
+    "Flutter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Flutter",
+        "aliases": []
+    },
+    "Fog Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fog_Summon",
+        "aliases": []
+    },
+    "Foresight": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Foresight",
+        "aliases": []
+    },
+    "Forge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Forge",
+        "aliases": []
+    },
+    "Fortissimo": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Fortissimo",
+        "aliases": []
+    },
+    "Frail Armor": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frail_Armor",
+        "aliases": []
+    },
+    "Frenzy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Frenzy",
+        "aliases": []
+    },
+    "Glide": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Glide",
+        "aliases": []
+    },
+    "Gloomy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gloomy",
+        "aliases": []
+    },
+    "Glutton": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Glutton",
+        "aliases": []
+    },
+    "Gorge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gorge",
+        "aliases": []
+    },
+    "Guardian": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Guardian",
+        "aliases": []
+    },
+    "Gummy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Gummy",
+        "aliases": []
+    },
+    "Guru": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Guru",
+        "aliases": []
+    },
+    "Hag": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hag",
+        "aliases": []
+    },
+    "Handy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Handy",
+        "aliases": []
+    },
+    "Hard Candy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hard_Candy",
+        "aliases": []
+    },
+    "Harmonize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Harmonize",
+        "aliases": []
+    },
+    "Hasty": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hasty",
+        "aliases": []
+    },
+    "Heat Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heat_Summon",
+        "aliases": []
+    },
+    "Heavy Fists": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Heavy_Fists",
+        "aliases": []
+    },
+    "Herd Behavior": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Herd_Behavior",
+        "aliases": []
+    },
+    "High Explosive": {
+        "url": "https://loomian-legacy.fandom.com/wiki/High_Explosive",
+        "aliases": []
+    },
+    "Hotfoot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hotfoot",
+        "aliases": []
+    },
+    "Hover": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hover",
+        "aliases": []
+    },
+    "Hydrate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hydrate",
+        "aliases": []
+    },
+    "Hydro Vortex": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Hydro_Vortex",
+        "aliases": []
+    },
+    "Idiosyncratic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Idiosyncratic",
+        "aliases": []
+    },
+    "Ignorant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ignorant",
+        "aliases": []
+    },
+    "Illuminate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Illuminate",
+        "aliases": []
+    },
+    "Immunized": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Immunized",
+        "aliases": []
+    },
+    "Impose": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Impose",
+        "aliases": []
+    },
+    "Incandescent": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Incandescent",
+        "aliases": []
+    },
+    "Inferno": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Inferno",
+        "aliases": []
+    },
+    "Insulated": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Insulated",
+        "aliases": []
+    },
+    "Intensify": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Intensify",
+        "aliases": []
+    },
+    "Intern": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Intern",
+        "aliases": []
+    },
+    "Land-Borne": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Land-Borne",
+        "aliases": [
+            "land_borne"
+        ]
+    },
+    "Lazy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lazy",
+        "aliases": []
+    },
+    "Life Force": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Life_Force",
+        "aliases": []
+    },
+    "Lightning Rod": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lightning_Rod",
+        "aliases": []
+    },
+    "Luck Of The Sea": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Luck_Of_The_Sea",
+        "aliases": []
+    },
+    "Lucky": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Lucky",
+        "aliases": []
+    },
+    "Madcap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Madcap",
+        "aliases": []
+    },
+    "Marksman": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Marksman",
+        "aliases": []
+    },
+    "Malware": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Malware",
+        "aliases": []
+    },
+    "Mask Swap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mask_Swap",
+        "aliases": []
+    },
+    "Master": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Master",
+        "aliases": []
+    },
+    "Mean Spirited": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mean_Spirited",
+        "aliases": []
+    },
+    "Medic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Medic",
+        "aliases": []
+    },
+    "Mesmerizing": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mesmerizing",
+        "aliases": []
+    },
+    "Metallic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metallic",
+        "aliases": []
+    },
+    "Metamorphosis": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Metamorphosis",
+        "aliases": []
+    },
+    "Mimic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mimic",
+        "aliases": []
+    },
+    "Motivational": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Motivational",
+        "aliases": []
+    },
+    "Mycotic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mycotic",
+        "aliases": []
+    },
+    "Mysterious Cloak": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mysterious_Cloak",
+        "aliases": []
+    },
+    "Mystery Toxins": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mystery_Toxins",
+        "aliases": []
+    },
+    "Mystic Tone": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Mystic_Tone",
+        "aliases": []
+    },
+    "Neutralize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Neutralize",
+        "aliases": []
+    },
+    "Night Light": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Night_Light",
+        "aliases": []
+    },
+    "Nightmarish": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Nightmarish",
+        "aliases": []
+    },
+    "Noxious Weeds": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Noxious_Weeds",
+        "aliases": []
+    },
+    "Obsidian Heart": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Obsidian_Heart",
+        "aliases": []
+    },
+    "Odd Husk": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Odd_Husk",
+        "aliases": []
+    },
+    "One of Many": {
+        "url": "https://loomian-legacy.fandom.com/wiki/One_of_Many",
+        "aliases": []
+    },
+    "Overcharged": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Overcharged",
+        "aliases": []
+    },
+    "Overclock": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Overclock",
+        "aliases": []
+    },
+    "Overshadow": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Overshadow",
+        "aliases": []
+    },
+    "Oxidize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Oxidize",
+        "aliases": []
+    },
+    "Parting Gift": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Parting_Gift",
+        "aliases": []
+    },
+    "Partnership": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Partnership",
+        "aliases": []
+    },
+    "Party Trick": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Party_Trick",
+        "aliases": []
+    },
+    "Persistence": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Persistence",
+        "aliases": []
+    },
+    "Petrifying": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Petrifying",
+        "aliases": []
+    },
+    "Pincer Trap": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pincer_Trap",
+        "aliases": []
+    },
+    "Pitch-Black": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pitch-Black",
+        "aliases": [
+            "pitch_black"
+        ]
+    },
+    "Playful": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Playful",
+        "aliases": []
+    },
+    "Pluvial": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pluvial",
+        "aliases": []
+    },
+    "Power Claw": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Claw",
+        "aliases": []
+    },
+    "Power Jaw": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Jaw",
+        "aliases": []
+    },
+    "Power Legs": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Legs",
+        "aliases": []
+    },
+    "Power Napper": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Power_Napper",
+        "aliases": []
+    },
+    "Premonition": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Premonition",
+        "aliases": []
+    },
+    "Prismatic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Prismatic",
+        "aliases": []
+    },
+    "Protective Shell": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Protective_Shell",
+        "aliases": []
+    },
+    "Prowler": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Prowler",
+        "aliases": []
+    },
+    "Puncture": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Puncture",
+        "aliases": []
+    },
+    "Pyro": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pyro",
+        "aliases": []
+    },
+    "Pyro Pro": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Pyro_Pro",
+        "aliases": []
+    },
+    "Quick Recovery": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Quick_Recovery",
+        "aliases": []
+    },
+    "Radiance": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Radiance",
+        "aliases": []
+    },
+    "Raging Fire": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Raging_Fire",
+        "aliases": []
+    },
+    "Railgun": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Railgun",
+        "aliases": []
+    },
+    "Rain Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rain_Rush",
+        "aliases": []
+    },
+    "Rain Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rain_Summon",
+        "aliases": []
+    },
+    "Ravenous": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ravenous",
+        "aliases": []
+    },
+    "Razor Sharp": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Razor_Sharp",
+        "aliases": []
+    },
+    "Reaper": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Reaper",
+        "aliases": []
+    },
+    "Rechargeable": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rechargeable",
+        "aliases": []
+    },
+    "Recurrent": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Recurrent",
+        "aliases": []
+    },
+    "Reflective": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Reflective",
+        "aliases": []
+    },
+    "Regift": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Regift",
+        "aliases": []
+    },
+    "Regurgitate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Regurgitate",
+        "aliases": []
+    },
+    "Reign": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Reign",
+        "aliases": []
+    },
+    "Remorseless": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Remorseless",
+        "aliases": []
+    },
+    "Replicate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Replicate",
+        "aliases": []
+    },
+    "Repugnant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Repugnant",
+        "aliases": []
+    },
+    "Resentful": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Resentful",
+        "aliases": []
+    },
+    "Resilience": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Resilience",
+        "aliases": []
+    },
+    "Rev Up": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rev_Up",
+        "aliases": []
+    },
+    "Reverberate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Reverberate",
+        "aliases": []
+    },
+    "Royal Decree": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Royal_Decree",
+        "aliases": []
+    },
+    "Rush Hour": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Rush_Hour",
+        "aliases": []
+    },
+    "Safety Pot": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Safety_Pot",
+        "aliases": []
+    },
+    "Salvage": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Salvage",
+        "aliases": []
+    },
+    "Scorching Skin": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Scorching_Skin",
+        "aliases": []
+    },
+    "Seize": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Seize",
+        "aliases": []
+    },
+    "Sendoff": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sendoff",
+        "aliases": []
+    },
+    "Shakedown": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Shakedown",
+        "aliases": []
+    },
+    "Sharp Claws": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sharp_Claws",
+        "aliases": []
+    },
+    "Sharp Edges": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sharp_Edges",
+        "aliases": []
+    },
+    "Sharp Focus": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sharp_Focus",
+        "aliases": []
+    },
+    "Sky-Borne": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sky-Borne",
+        "aliases": [
+            "sky_borne"
+        ]
+    },
+    "Slick Shell": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slick_Shell",
+        "aliases": []
+    },
+    "Slimy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Slimy",
+        "aliases": []
+    },
+    "Sly": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sly",
+        "aliases": []
+    },
+    "Sob": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sob",
+        "aliases": []
+    },
+    "Soul Siphon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Soul_Siphon",
+        "aliases": []
+    },
+    "Specialization": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Specialization",
+        "aliases": []
+    },
+    "Spine Break": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Spine_Break",
+        "aliases": []
+    },
+    "Sponge": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sponge",
+        "aliases": []
+    },
+    "Staunch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Staunch",
+        "aliases": []
+    },
+    "Sugar Rush": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sugar_Rush",
+        "aliases": []
+    },
+    "Surrogate": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Surrogate",
+        "aliases": []
+    },
+    "Swampy": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Swampy",
+        "aliases": []
+    },
+    "Sweet Aroma": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sweet_Aroma",
+        "aliases": []
+    },
+    "Sweet Touch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Sweet_Touch",
+        "aliases": []
+    },
+    "Tank": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tank",
+        "aliases": []
+    },
+    "Temper": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Temper",
+        "aliases": []
+    },
+    "Terrifying": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Terrifying",
+        "aliases": []
+    },
+    "Territorial": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Territorial",
+        "aliases": []
+    },
+    "Third-degree Burn": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Third-degree_Burn",
+        "aliases": [
+            "third_degree_burn"
+        ]
+    },
+    "Thriving Pace": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thriving_Pace",
+        "aliases": []
+    },
+    "Thunder Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Thunder_Summon",
+        "aliases": []
+    },
+    "Tone Deaf": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tone_Deaf",
+        "aliases": []
+    },
+    "Total Eclipse": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Total_Eclipse",
+        "aliases": []
+    },
+    "Toxic Filter": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Filter",
+        "aliases": []
+    },
+    "Toxic Sac": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Sac",
+        "aliases": []
+    },
+    "Toxic Spines": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Spines",
+        "aliases": []
+    },
+    "Toxic Touch": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Toxic_Touch",
+        "aliases": []
+    },
+    "Trader": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Trader",
+        "aliases": []
+    },
+    "Trash Armor": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Trash_Armor",
+        "aliases": []
+    },
+    "Triumph": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Triumph",
+        "aliases": []
+    },
+    "Tumultuous": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Tumultuous",
+        "aliases": []
+    },
+    "Turbulent": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Turbulent",
+        "aliases": []
+    },
+    "Two Face": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Two_Face",
+        "aliases": []
+    },
+    "Ungracious Host": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Ungracious_Host",
+        "aliases": []
+    },
+    "Upper Hand": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Upper_Hand",
+        "aliases": []
+    },
+    "Vengeance": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vengeance",
+        "aliases": []
+    },
+    "Venomous": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Venomous",
+        "aliases": []
+    },
+    "Vicious": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vicious",
+        "aliases": []
+    },
+    "Vigilant": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vigilant",
+        "aliases": []
+    },
+    "Vigorous": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vigorous",
+        "aliases": []
+    },
+    "Virtuoso": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Virtuoso",
+        "aliases": []
+    },
+    "Viscid": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Viscid",
+        "aliases": []
+    },
+    "Vivid Sight": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Vivid_Sight",
+        "aliases": []
+    },
+    "Volcanic": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Volcanic",
+        "aliases": []
+    },
+    "Wail": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wail",
+        "aliases": []
+    },
+    "Watcher": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Watcher",
+        "aliases": []
+    },
+    "Webbing": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Webbing",
+        "aliases": []
+    },
+    "Wholesome": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wholesome",
+        "aliases": []
+    },
+    "Wildfire": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wildfire",
+        "aliases": []
+    },
+    "Wind Summon": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wind_Summon",
+        "aliases": []
+    },
+    "Wise": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Wise",
+        "aliases": []
+    },
+    "Woodsman": {
+        "url": "https://loomian-legacy.fandom.com/wiki/Woodsman",
+        "aliases": []
     }
 }

@@ -186,7 +186,7 @@ async def wiki(ctx, *, query=None):
         )
         return
 
-    query = query.lower().replace(" ", "_")
+    query = query.lower().replace("'", "").replace("_", " ")
 
     for name, data in wiki_queries.items():
         if query == name.lower() or query in [alias.lower() for alias in data["aliases"]]:

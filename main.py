@@ -169,7 +169,10 @@ async def help(ctx):
 @bot.command(aliases=["log", "cl"])
 async def changelog(ctx):
     embed = discord.Embed(title="__Changelog__",
-                          description="__Aug 7th:__\n" \
+                          description=
+                          "__Aug 9th:__\n" \
+                          "- Added majority of wiki into search\n" \
+                          "__Aug 7th:__\n" \
                           "- Added rarities to spawns\n" \
                           "- Improved Wiki searching\n" \
                           "- Bug fixes and improvements"

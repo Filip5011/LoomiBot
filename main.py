@@ -173,7 +173,7 @@ async def changelog(ctx):
                           description=
                           "__Aug 9th:__\n" \
                           "- Added majority of wiki into search\n" \
-                          "- Added stats and Loomicoins\n" \
+                          "- Added User stats and Loomicoins\n" \
                           "__Aug 7th:__\n" \
                           "- Added rarities to spawns\n" \
                           "- Improved Wiki searching\n" \

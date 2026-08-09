@@ -158,6 +158,7 @@ async def help(ctx):
                                       "- **wiki** <optional: query> - Displays the corresponding Wiki page.\n" \
                                       "- **catch** <loomian> - Attempt to catch the current Loomian.\n" \
                                       "- **hint** - Gives a hint on the current Loomian's name.\n" \
+                                      "- **stats** - View your statistics.\n"
                                       "- **loomians** - Shows your Loomian inventory.\n" \
                                       "- **setup** - (Admin only) Setup the bot.\n" \
                                       "\n" \
@@ -172,6 +173,7 @@ async def changelog(ctx):
                           description=
                           "__Aug 9th:__\n" \
                           "- Added majority of wiki into search\n" \
+                          "- Added stats and Loomicoins\n" \
                           "__Aug 7th:__\n" \
                           "- Added rarities to spawns\n" \
                           "- Improved Wiki searching\n" \
@@ -201,7 +203,6 @@ async def wiki(ctx, *, query=None):
             return
 
     await ctx.send("Invalid Wiki query.")
-
 
 @bot.command()
 @admin_or_owner()
@@ -271,6 +272,7 @@ async def catch(ctx, *, loomian):
         return
 
     with Session() as session:
+
         user = session.query(User).filter_by(
             discord_id=str(ctx.author.id)
         ).first()
@@ -281,17 +283,37 @@ async def catch(ctx, *, loomian):
             session.flush()
 
         level = random.randint(3, 25)
+        species_id = loomian_data[rarity][current_spawn]["id"]
+
+        existing_loomian = session.query(Loomian).filter_by(
+            owner_id=user.id,
+            species_id=species_id
+        ).first()
+
+        first_capture = existing_loomian is None
 
         captured = Loomian(
             owner=user,
-            species_id=loomian_data[rarity][current_spawn]["id"],
+            species_id=species_id,
             level=level
         )
 
+        user.captured += 1
+
         session.add(captured)
+
+        if first_capture:
+            user.loomicoins += 100
+            user.loomipedia += 1
+
         session.commit()
 
-    await ctx.send(f"{ctx.author.mention} caught a wild level {level} {current_spawn}!")
+        msg = f"{ctx.author.mention} caught a wild level {level} {current_spawn}!"
+
+        if first_capture:
+            await ctx.send(msg + "\nFirst capture bonus! Obtained 100 Loomicoins.")
+        else:
+            await ctx.send(msg)
 
     current_spawns.pop(server_id)
 
@@ -327,6 +349,27 @@ async def hint(ctx):
         hint[i] = current_spawn[i]
 
     await ctx.send("".join(hint))
+
+@bot.command()
+async def stats(ctx):
+    with Session() as session:
+        user = session.query(User).filter_by(
+            discord_id=str(ctx.author.id)
+        ).first()
+
+        if user is None:
+            user = User(discord_id=str(ctx.author.id))
+            session.add(user)
+            session.flush()
+
+        embed = discord.Embed(
+            title=f"{ctx.author.name}'s stats",
+            description=f"Loomicoins: Ł{user.loomicoins}\n" \
+                        f"Loomipedia: {user.loomipedia}/300\n" \
+                        f"Captured loomians: {user.captured} "
+            )
+        
+    await ctx.send(embed=embed)
 
 @bot.command(aliases=["l"])
 async def loomians(ctx):
@@ -397,7 +440,5 @@ async def setup(ctx):
         session.commit()
 
     await ctx.send("Setup complete!")
-
-
 
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)

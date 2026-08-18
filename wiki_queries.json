@@ -2630,7 +2630,10 @@
     },
     "Game Events": {
         "url": "https://loomian-legacy.fandom.com/wiki/Game_Events",
-        "aliases": []
+        "aliases": [
+            "events",
+            "event"
+        ]
     },
     "Game Pass": {
         "url": "https://loomian-legacy.fandom.com/wiki/Game_Pass",
@@ -3254,7 +3257,9 @@
     },
     "Hypnotize": {
         "url": "https://loomian-legacy.fandom.com/wiki/Hypnotize",
-        "aliases": []
+        "aliases": [
+            "hypno"
+        ]
     },
     "ID (app)": {
         "url": "https://loomian-legacy.fandom.com/wiki/ID_(app)",

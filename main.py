@@ -156,10 +156,11 @@ async def help(ctx):
                           description="- **help** - View commands.\n" \
                                       "- **changelog** - View the most recent updates.\n" \
                                       "- **wiki** <optional: query> - Displays the corresponding Wiki page.\n" \
-                                      "- **catch** <loomian> - Attempt to catch the current Loomian.\n" \
-                                      "- **hint** - Gives a hint on the current Loomian's name.\n" \
+                                      "- **abilities** <loomian> - Displays the corresponding loomian's abilities.\n " \
+                                      "- **catch** <loomian> - Attempt to catch the current loomian.\n" \
+                                      "- **hint** - Gives a hint on the current loomian's name.\n" \
                                       "- **stats** - View your statistics.\n"
-                                      "- **loomians** - Shows your Loomian inventory.\n" \
+                                      "- **loomians** - Shows your loomian inventory.\n" \
                                       "- **setup** - (Admin only) Setup the bot.\n" \
                                       "\n" \
                                       "If you find any bugs or errors, DM @filip5011"
@@ -171,10 +172,12 @@ async def help(ctx):
 async def changelog(ctx):
     embed = discord.Embed(title="__Changelog__",
                           description=
-                          "__Aug 9th:__\n" \
+                          "v0.5.0\n" \
+                          " - Added direct ability searching\n" \
+                          "v0.4.3\n" \
                           "- Added majority of wiki into search\n" \
                           "- Added User stats and Loomicoins\n" \
-                          "__Aug 7th:__\n" \
+                          "v0.3.1\n" \
                           "- Added rarities to spawns\n" \
                           "- Improved Wiki searching\n" \
                           "- Bug fixes and improvements"
@@ -203,6 +206,44 @@ async def wiki(ctx, *, query=None):
             return
 
     await ctx.send("Invalid Wiki query.")
+
+@bot.command(aliases=["a", "ability", "sa", "secret ability"])
+async def abilities(ctx, *, loomian=None):
+    if loomian is None:
+        await ctx.send(
+                    "Here is a list of all abilities:\n"
+                    "https://loomian-legacy.fandom.com/wiki/Ability"
+                )
+        return
+    
+    loomian = loomian.strip().lower()
+
+    for rarity, loomians in loomian_data.items():
+        for name, data in loomians.items():
+            if name.lower() == loomian:
+                abilities = ", ".join(data["abilities"])
+                secret_ability = data["secret ability"] or "None"
+
+                embed = discord.Embed(
+                    title=f"{name}'s Abilities"
+                )
+
+                embed.add_field(
+                    name="Abilities:",
+                    value=abilities,
+                    inline=False
+                )
+
+                embed.add_field(
+                    name="Secret Ability:",
+                    value=secret_ability,
+                    inline=False
+                )
+
+                await ctx.send(embed=embed)
+                return
+
+    await ctx.send("Invalid loomian.")
 
 @bot.command()
 @admin_or_owner()

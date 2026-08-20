@@ -3,1510 +3,2630 @@
     "Twilat": {
       "id": "022",
       "image": "loomian_images/Twilat-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Twilat"
+      "abilities": [
+        "Territorial",
+        "Confidence"
+      ],
+      "secret ability": "Neutralize"
     },
     "Cathorn": {
       "id": "026",
       "image": "loomian_images/Cathorn-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cathorn"
+      "abilities": [
+        "Hasty"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Propae": {
       "id": "027",
       "image": "loomian_images/Propae-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Propae"
+      "abilities": [
+        "Hasty"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Twittle": {
       "id": "030",
       "image": "loomian_images/Twittle-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Twittle"
+      "abilities": [
+        "Confidence",
+        "Madcap"
+      ],
+      "secret ability": "Rev Up"
     },
     "Grubby": {
       "id": "037",
       "image": "loomian_images/Grubby-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Grubby"
+      "abilities": [
+        "Odd Husk",
+        "Premonition"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Coonucopia": {
       "id": "038",
       "image": "loomian_images/Coonucopia-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Coonucopia"
+      "abilities": [
+        "Odd Husk",
+        "Premonition"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Babore": {
       "id": "043",
       "image": "loomian_images/Babore-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Babore"
+      "abilities": [
+        "Boast"
+      ],
+      "secret ability": "Resilience"
     },
     "Geklow": {
       "id": "045",
       "image": "loomian_images/Geklow-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Geklow"
+      "abilities": [
+        "Lightning Rod",
+        "Radiance"
+      ],
+      "secret ability": "Prismatic"
     },
     "Slugling": {
       "id": "047",
       "image": "loomian_images/Slugling-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Slugling"
+      "abilities": [
+        "Mystery Toxins",
+        "Ungracious Host"
+      ],
+      "secret ability": "Slimy"
     },
     "Kabunga": {
       "id": "050",
       "image": "loomian_images/Kabunga-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kabunga"
+      "abilities": [
+        "Communication",
+        "Territorial"
+      ],
+      "secret ability": "Noxious Weeds"
     },
     "Rakrawla": {
       "id": "055",
       "image": "loomian_images/Rakrawla-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Rakrawla"
+      "abilities": [
+        "Hasty",
+        "Insulated"
+      ],
+      "secret ability": "Lazy"
     },
     "Gumpod": {
       "id": "057",
       "image": "loomian_images/Gumpod-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gumpod"
+      "abilities": [
+        "Protective Shell"
+      ],
+      "secret ability": "Sharp Edges"
     },
     "Whispup": {
       "id": "062",
       "image": "loomian_images/Whispup-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Whispup"
+      "abilities": [
+        "Temper",
+        "Scorching Skin"
+      ],
+      "secret ability": "Vengeance"
     },
     "Skilava": {
       "id": "064",
       "image": "loomian_images/Skilava-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Skilava"
+      "abilities": [
+        "Scorching Skin",
+        "Combustible"
+      ],
+      "secret ability": "Pyro"
     },
     "Craytal": {
       "id": "067",
       "image": "loomian_images/Craytal-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Craytal"
+      "abilities": [
+        "Volcanic",
+        "Territorial"
+      ],
+      "secret ability": "Combustible"
     },
     "Cafnote": {
       "id": "074",
       "image": "loomian_images/Cafnote-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cafnote"
+      "abilities": [
+        "Triumph",
+        "Virtuoso"
+      ],
+      "secret ability": "Brute Force"
     },
     "Burroach": {
       "id": "081",
       "image": "loomian_images/Burroach-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Burroach"
+      "abilities": [
+        "Trash Armor",
+        "Slimy"
+      ],
+      "secret ability": "Sharp Claws"
     },
     "Chompactor": {
       "id": "090",
       "image": "loomian_images/Chompactor-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Chompactor"
+      "abilities": [
+        "Salvage",
+        "Rev Up"
+      ],
+      "secret ability": "Specialization"
     },
     "Scorb": {
       "id": "092",
       "image": "loomian_images/Scorb-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Scorb"
+      "abilities": [
+        "Communication",
+        "Hover"
+      ],
+      "secret ability": "Clutch"
     },
     "Goppie": {
       "id": "097",
       "image": "loomian_images/Goppie-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Goppie"
+      "abilities": [
+        "Rain Rush",
+        "Finesse"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Ampole": {
       "id": "109",
       "image": "loomian_images/Ampole-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ampole"
+      "abilities": [
+        "Specialization",
+        "Watcher"
+      ],
+      "secret ability": "Sly"
     },
     "Pwuff": {
       "id": "112",
       "image": "loomian_images/Pwuff-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pwuff"
+      "abilities": [
+        "Sharp Edges",
+        "Toxic Spines"
+      ],
+      "secret ability": "Baneful"
     },
     "Cupoink": {
       "id": "124",
       "image": "loomian_images/Cupoink-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cupoink"
+      "abilities": [
+        "Caddie",
+        "Madcap"
+      ],
+      "secret ability": "Sweet Touch"
     },
     "Mochibi": {
       "id": "126",
       "image": "loomian_images/Mochibi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mochibi"
+      "abilities": [
+        "Sugar Rush",
+        "Lucky"
+      ],
+      "secret ability": "Shakedown"
     },
     "Gwurm": {
       "id": "129",
       "image": "loomian_images/Gwurm-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gwurm"
+      "abilities": [
+        "Hard Candy",
+        "Clingy"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Snagull": {
       "id": "162",
       "image": "loomian_images/Snagull-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snagull"
+      "abilities": [
+        "Clingy",
+        "Immunized"
+      ],
+      "secret ability": "Marksman"
     },
     "Cavenish": {
       "id": "168",
       "image": "loomian_images/Cavenish-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cavenish"
+      "abilities": [
+        "Bully",
+        "Conspire"
+      ],
+      "secret ability": "Sly"
     },
     "Lumica": {
       "id": "174",
       "image": "loomian_images/Lumica-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lumica"
+      "abilities": [
+        "Sharp Edges",
+        "Premonition"
+      ],
+      "secret ability": "Repugnant"
     },
     "Kittone": {
       "id": "181",
       "image": "loomian_images/Kittone-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kittone"
+      "abilities": [
+        "Tone Deaf",
+        "Adorable"
+      ],
+      "secret ability": "Shakedown"
     },
     "Singeel": {
       "id": "220",
       "image": "loomian_images/Singeel-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Singeel"
+      "abilities": [
+        "Safety Pot"
+      ],
+      "secret ability": null
     },
     "Skampi": {
       "id": "226",
       "image": "loomian_images/Skampi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Skampi"
+      "abilities": [
+        "Protective Shell",
+        "Clutch"
+      ],
+      "secret ability": "Trash Armor"
     },
     "Cicalute": {
       "id": "260",
       "image": "loomian_images/Cicalute-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cicalute"
+      "abilities": [
+        "Metamorphosis",
+        "Mesmerizing"
+      ],
+      "secret ability": "Expertise"
     },
     "Grievestone": {
       "id": "268",
       "image": "loomian_images/Grievestone-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Grievestone"
+      "abilities": [
+        "Sob",
+        "Bitter Touch"
+      ],
+      "secret ability": "Seize"
     },
     "Jimby": {
       "id": "270",
       "image": "loomian_images/Jimby-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Jimby"
+      "abilities": [
+        "Fortissimo",
+        "Carol"
+      ],
+      "secret ability": "Virtuoso"
     }
   },
   "Uncommon": {
     "Cynamoth": {
       "id": "028",
       "image": "loomian_images/Cynamoth-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cynamoth"
+      "abilities": [
+        "Mystery Toxins"
+      ],
+      "secret ability": "Flutter"
     },
     "Paratweet": {
       "id": "031",
       "image": "loomian_images/Paratweet-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Paratweet"
+      "abilities": [
+        "Confidence",
+        "Madcap"
+      ],
+      "secret ability": "Rev Up"
     },
     "Pyder": {
       "id": "033",
       "image": "loomian_images/Pyder-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pyder"
+      "abilities": [
+        "Apprehension",
+        "Webbing"
+      ],
+      "secret ability": "Coursing Venom"
     },
     "Antsee": {
       "id": "035",
       "image": "loomian_images/Antsee-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Antsee"
+      "abilities": [
+        "Mystery Toxins",
+        "Woodsman"
+      ],
+      "secret ability": "Drainage"
     },
     "Terrafly": {
       "id": "039",
       "image": "loomian_images/Terrafly-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Terrafly"
+      "abilities": [
+        "Hotfoot",
+        "Ambush"
+      ],
+      "secret ability": "Bug Fever"
     },
     "Kleptyke": {
       "id": "041",
       "image": "loomian_images/Kleptyke-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kleptyke"
+      "abilities": [
+        "Burglar",
+        "Apprehension"
+      ],
+      "secret ability": "Ability Thief"
     },
     "Escargrow": {
       "id": "048",
       "image": "loomian_images/Escargrow-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Escargrow"
+      "abilities": [
+        "Mystery Toxins",
+        "Ungracious Host"
+      ],
+      "secret ability": "Slimy"
     },
     "Phancub": {
       "id": "059",
       "image": "loomian_images/Phancub-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Phancub"
+      "abilities": [
+        "Prowler"
+      ],
+      "secret ability": "Adorable"
     },
     "Geksplode": {
       "id": "065",
       "image": "loomian_images/Geksplode-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Geksplode"
+      "abilities": [
+        "Scorching Skin",
+        "Combustible"
+      ],
+      "secret ability": "Pyro"
     },
     "Whimpor": {
       "id": "083",
       "image": "loomian_images/Whimpor-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Whimpor"
+      "abilities": [
+        "Clutch",
+        "Frail Armor"
+      ],
+      "secret ability": "Toxic Filter"
     },
     "Territi": {
       "id": "085",
       "image": "loomian_images/Territi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Territi"
+      "abilities": [
+        "Immunized",
+        "Confidence"
+      ],
+      "secret ability": "Handy"
     },
     "Veylens": {
       "id": "093",
       "image": "loomian_images/Veylens-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Veylens"
+      "abilities": [
+        "Communication",
+        "Hover"
+      ],
+      "secret ability": "Clutch"
     },
     "Poochrol": {
       "id": "095",
       "image": "loomian_images/Poochrol-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Poochrol"
+      "abilities": [
+        "Brute Force"
+      ],
+      "secret ability": "Power Jaw"
     },
     "Amphiton": {
       "id": "110",
       "image": "loomian_images/Amphiton-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Amphiton"
+      "abilities": [
+        "Specialization",
+        "Watcher"
+      ],
+      "secret ability": "Sly"
     },
     "Swimp": {
       "id": "115",
       "image": "loomian_images/Swimp-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Swimp"
+      "abilities": [
+        "Power Jaw",
+        "Apprehension"
+      ],
+      "secret ability": "Devious"
     },
     "Totemochi": {
       "id": "127",
       "image": "loomian_images/Totemochi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Totemochi"
+      "abilities": [
+        "Sugar Rush",
+        "Lucky"
+      ],
+      "secret ability": "Shakedown"
     },
     "Odasho": {
       "id": "130",
       "image": "loomian_images/Odasho-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Odasho"
+      "abilities": [
+        "Hard Candy",
+        "Clingy"
+      ],
+      "secret ability": "Defensive Priority"
     },
     "Snagulp": {
       "id": "163",
       "image": "loomian_images/Snagulp-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snagulp"
+      "abilities": [
+        "Clingy",
+        "Immunized"
+      ],
+      "secret ability": "Marksman"
     },
     "Kanki": {
       "id": "170",
       "image": "loomian_images/Kanki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kanki"
+      "abilities": [
+        "Madcap",
+        "Aggressive"
+      ],
+      "secret ability": "Ambush"
     },
     "Polypi": {
       "id": "176",
       "image": "loomian_images/Polypi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Polypi"
+      "abilities": [
+        "Temper",
+        "Enchanted Coat"
+      ],
+      "secret ability": "Incandescent"
     },
     "Taoshi": {
       "id": "179",
       "image": "loomian_images/Taoshi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Taoshi"
+      "abilities": [
+        "Enchanted Coat",
+        "Adorable"
+      ],
+      "secret ability": "Sendoff"
     },
     "Somata": {
       "id": "184",
       "image": "loomian_images/Somata-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Somata"
+      "abilities": [
+        "Guardian",
+        "Repugnant"
+      ],
+      "secret ability": "Adorable"
     },
     "Cinnaboo": {
       "id": "186",
       "image": "loomian_images/Cinnaboo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cinnaboo"
+      "abilities": [
+        "Sweet Touch",
+        "Playful"
+      ],
+      "secret ability": "Shakedown"
     },
     "Swishy": {
       "id": "189",
       "image": "loomian_images/Swishy-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Swishy"
+      "abilities": [
+        "Regift",
+        "Gummy"
+      ],
+      "secret ability": "Viscid"
     },
     "Mistlebud": {
       "id": "201",
       "image": "loomian_images/Mistlebud-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mistlebud"
+      "abilities": [
+        "Festive Spirit"
+      ],
+      "secret ability": null
     },
     "Kyeggo": {
       "id": "205",
       "image": "loomian_images/Kyeggo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kyeggo"
+      "abilities": [
+        "Anomaly",
+        "Vivid Sight"
+      ],
+      "secret ability": "Vicious"
     },
     "Crabushi": {
       "id": "222",
       "image": "loomian_images/Crabushi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Crabushi"
+      "abilities": [
+        "Vengeance",
+        "Power Claw"
+      ],
+      "secret ability": "Razor Sharp"
     },
     "Eyebrella": {
       "id": "240",
       "image": "loomian_images/Eyebrella-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Eyebrella"
+      "abilities": [
+        "Hydro Vortex",
+        "Do or Die"
+      ],
+      "secret ability": "Pluvial"
     },
     "Lissen": {
       "id": "242",
       "image": "loomian_images/Lissen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lissen"
+      "abilities": [
+        "Motivational",
+        "Do or Die"
+      ],
+      "secret ability": "Virtuoso"
     },
     "Lantot": {
       "id": "244",
       "image": "loomian_images/Lantot-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lantot"
+      "abilities": [
+        "Wildfire",
+        "Do or Die"
+      ],
+      "secret ability": "Sendoff"
     },
     "Milgoo": {
       "id": "246",
       "image": "loomian_images/Milgoo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Milgoo"
+      "abilities": [
+        "Soul Siphon",
+        "Do or Die"
+      ],
+      "secret ability": "Devious"
     },
     "Goswing": {
       "id": "262",
       "image": "loomian_images/Goswing-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Goswing"
+      "abilities": [
+        "Compliant",
+        "Burglar"
+      ],
+      "secret ability": "Hydrate"
     },
     "Banooh": {
       "id": "264",
       "image": "loomian_images/Banooh-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Banooh"
+      "abilities": [
+        "Shakedown",
+        "Assertive"
+      ],
+      "secret ability": "Berserk"
     },
     "Spirwix": {
       "id": "266",
       "image": "loomian_images/Spirwix-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Spirwix"
+      "abilities": [
+        "Disenchant",
+        "Raging Fire"
+      ],
+      "secret ability": "Devious"
     },
     "Nukichi": {
       "id": "276",
       "image": "loomian_images/Nukichi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nukichi"
+      "abilities": [
+        "Lucky",
+        "Sly"
+      ],
+      "secret ability": "Handy"
     }
   },
   "Rare": {
     "Embit": {
       "id": "001",
       "image": "loomian_images/Embit-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Embit"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Terrifying"
     },
     "Rabburn": {
       "id": "002",
       "image": "loomian_images/Rabburn-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Rabburn"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Terrifying"
     },
     "Dripple": {
       "id": "004",
       "image": "loomian_images/Dripple-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dripple"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Power Napper"
     },
     "Reptide": {
       "id": "005",
       "image": "loomian_images/Reptide-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Reptide"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Power Napper"
     },
     "Fevine": {
       "id": "007",
       "image": "loomian_images/Fevine-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Fevine"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Thriving Pace"
     },
     "Felver": {
       "id": "008",
       "image": "loomian_images/Felver-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Felver"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Thriving Pace"
     },
     "Eaglit": {
       "id": "010",
       "image": "loomian_images/Eaglit-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Eaglit"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Applied Frustration"
     },
     "Torprey": {
       "id": "011",
       "image": "loomian_images/Torprey-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Torprey"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Applied Frustration"
     },
     "Vambat": {
       "id": "013",
       "image": "loomian_images/Vambat-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Vambat"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Demanding"
     },
     "Dimpire": {
       "id": "014",
       "image": "loomian_images/Dimpire-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dimpire"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Demanding"
     },
     "Snocub": {
       "id": "016",
       "image": "loomian_images/Snocub-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snocub"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Staunch"
     },
     "Snowki": {
       "id": "017",
       "image": "loomian_images/Snowki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snowki"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Staunch"
     },
     "Weevolt": {
       "id": "019",
       "image": "loomian_images/Weevolt-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Weevolt"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Brute Force"
     },
     "Stozap": {
       "id": "020",
       "image": "loomian_images/Stozap-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Stozap"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Brute Force"
     },
     "Umbrat": {
       "id": "023",
       "image": "loomian_images/Umbrat-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Umbrat"
+      "abilities": [
+        "Dusk",
+        "Confidence"
+      ],
+      "secret ability": "Overshadow"
     },
     "Luxoar": {
       "id": "024",
       "image": "loomian_images/Luxoar-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Luxoar"
+      "abilities": [
+        "Dawn",
+        "Confidence"
+      ],
+      "secret ability": "Illuminate"
     },
     "Sumobito": {
       "id": "029",
       "image": "loomian_images/Sumobito-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Sumobito"
+      "abilities": [
+        "Guru"
+      ],
+      "secret ability": "Double Strike"
     },
     "Avitross": {
       "id": "032",
       "image": "loomian_images/Avitross-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Avitross"
+      "abilities": [
+        "Confidence",
+        "Madcap"
+      ],
+      "secret ability": "Rev Up"
     },
     "Swolder": {
       "id": "034",
       "image": "loomian_images/Swolder-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Swolder"
+      "abilities": [
+        "Apprehension",
+        "Webbing"
+      ],
+      "secret ability": "Coursing Venom"
     },
     "Florant": {
       "id": "036",
       "image": "loomian_images/Florant-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Florant"
+      "abilities": [
+        "Mystery Toxins",
+        "Woodsman"
+      ],
+      "secret ability": "Drainage"
     },
     "Terraclaw": {
       "id": "040",
       "image": "loomian_images/Terraclaw-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Terraclaw"
+      "abilities": [
+        "Hotfoot",
+        "Pincer Trap"
+      ],
+      "secret ability": "Slick Shell"
     },
     "Ragoon": {
       "id": "042",
       "image": "loomian_images/Ragoon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ragoon"
+      "abilities": [
+        "Burglar",
+        "Apprehension"
+      ],
+      "secret ability": "Ability Thief"
     },
     "Boarrok": {
       "id": "044",
       "image": "loomian_images/Boarrok-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Boarrok"
+      "abilities": [
+        "Boast"
+      ],
+      "secret ability": "Resilience"
     },
     "Eleguana": {
       "id": "046",
       "image": "loomian_images/Eleguana-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Eleguana"
+      "abilities": [
+        "Lightning Rod",
+        "Radiance"
+      ],
+      "secret ability": "Prismatic"
     },
     "Gastroak": {
       "id": "049",
       "image": "loomian_images/Gastroak-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gastroak"
+      "abilities": [
+        "Mystery Toxins",
+        "Ungracious Host"
+      ],
+      "secret ability": "Slimy"
     },
     "Wiki-Wiki": {
       "id": "051",
       "image": "loomian_images/Wiki-Wiki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wiki-Wiki"
+      "abilities": [
+        "Communication",
+        "Medic"
+      ],
+      "secret ability": "Noxious Weeds"
     },
     "Chartiki": {
       "id": "052",
       "image": "loomian_images/Chartiki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Chartiki"
+      "abilities": [
+        "Communication",
+        "Inferno"
+      ],
+      "secret ability": "Combustible"
     },
     "Waka-Laka": {
       "id": "053",
       "image": "loomian_images/Waka-Laka-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Waka-Laka"
+      "abilities": [
+        "Communication",
+        "Expertise"
+      ],
+      "secret ability": "Mycotic"
     },
     "Shawchi": {
       "id": "054",
       "image": "loomian_images/Shawchi-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Shawchi"
+      "abilities": [
+        "Enchant",
+        "Disenchant"
+      ],
+      "secret ability": "Sharp Focus"
     },
     "Sedimars": {
       "id": "056",
       "image": "loomian_images/Sedimars-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Sedimars"
+      "abilities": [
+        "Hasty",
+        "Insulated"
+      ],
+      "secret ability": "Lazy"
     },
     "Ventacean": {
       "id": "058",
       "image": "loomian_images/Ventacean-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ventacean"
+      "abilities": [
+        "Protective Shell"
+      ],
+      "secret ability": "Sharp Edges"
     },
     "Ursoul": {
       "id": "060",
       "image": "loomian_images/Ursoul-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ursoul"
+      "abilities": [
+        "Prowler"
+      ],
+      "secret ability": "Terrifying"
     },
     "Ursnac": {
       "id": "061",
       "image": "loomian_images/Ursnac-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ursnac"
+      "abilities": [
+        "Tank"
+      ],
+      "secret ability": "Bursting Seams"
     },
     "Revenine": {
       "id": "063",
       "image": "loomian_images/Revenine-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Revenine"
+      "abilities": [
+        "Temper",
+        "Prowler"
+      ],
+      "secret ability": "Vengeance"
     },
     "Eruptidon": {
       "id": "066",
       "image": "loomian_images/Eruptidon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Eruptidon"
+      "abilities": [
+        "Scorching Skin",
+        "Combustible"
+      ],
+      "secret ability": "Pyro"
     },
     "Krakaloa": {
       "id": "068",
       "image": "loomian_images/Krakaloa-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Krakaloa"
+      "abilities": [
+        "Volcanic",
+        "Scorching Skin"
+      ],
+      "secret ability": "Combustible"
     },
     "Volkaloa": {
       "id": "069",
       "image": "loomian_images/Volkaloa-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Volkaloa"
+      "abilities": [
+        "Volcanic",
+        "Berserk"
+      ],
+      "secret ability": "Combustible"
     },
     "Festifir": {
       "id": "070",
       "image": "loomian_images/Festifir-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Festifir"
+      "abilities": [
+        "Parting Gift",
+        "Chill"
+      ],
+      "secret ability": "Regift"
     },
     "Igneol": {
       "id": "071",
       "image": "loomian_images/Igneol-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Igneol"
+      "abilities": [
+        "Sharp Edges",
+        "Premonition"
+      ],
+      "secret ability": "Resilience"
     },
-      "Chrysite": {
+    "Chrysite": {
       "id": "072",
       "image": "loomian_images/Chrysite-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Chrysite"
+      "abilities": [
+        "Sharp Edges",
+        "Premonition"
+      ],
+      "secret ability": "Resilience"
     },
     "Trumbull": {
       "id": "075",
       "image": "loomian_images/Trumbull-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Trumbull"
+      "abilities": [
+        "Triumph",
+        "Virtuoso"
+      ],
+      "secret ability": "Brute Force"
     },
     "Mootune": {
       "id": "076",
       "image": "loomian_images/Mootune-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mootune"
+      "abilities": [
+        "Adorable",
+        "Virtuoso"
+      ],
+      "secret ability": "Tone Deaf"
     },
     "Gobbidemic": {
       "id": "077",
       "image": "loomian_images/Gobbidemic-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gobbidemic"
+      "abilities": [
+        "Immunized"
+      ],
+      "secret ability": "Baneful"
     },
     "Icigool": {
       "id": "078",
       "image": "loomian_images/Icigool-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Icigool"
+      "abilities": [
+        "Parting Gift",
+        "Expertise"
+      ],
+      "secret ability": "Power Jaw"
     },
     "Garbantis": {
       "id": "082",
       "image": "loomian_images/Garbantis-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Garbantis"
+      "abilities": [
+        "Trash Armor",
+        "Slimy"
+      ],
+      "secret ability": "Sharp Claws"
     },
     "Stratusoar": {
       "id": "084",
       "image": "loomian_images/Stratusoar-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Stratusoar"
+      "abilities": [
+        "Clutch",
+        "Frail Armor"
+      ],
+      "secret ability": "Toxic Filter"
     },
     "Dyeborg": {
       "id": "086",
       "image": "loomian_images/Dyeborg-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dyeborg"
+      "abilities": [
+        "Immunized",
+        "Tank"
+      ],
+      "secret ability": "Handy"
     },
     "Operaptor": {
       "id": "087",
       "image": "loomian_images/Operaptor-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Operaptor"
+      "abilities": [
+        "Terrifying",
+        "Power Jaw"
+      ],
+      "secret ability": "Overclock"
     },
     "Concredon": {
       "id": "088",
       "image": "loomian_images/Concredon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Concredon"
+      "abilities": [
+        "Terrifying",
+        "Power Jaw"
+      ],
+      "secret ability": "Overclock"
     },
     "Munchweel": {
       "id": "091",
       "image": "loomian_images/Munchweel-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Munchweel"
+      "abilities": [
+        "Forge",
+        "Rev Up"
+      ],
+      "secret ability": "Specialization"
     },
     "Gardrone": {
       "id": "094",
       "image": "loomian_images/Gardrone-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gardrone"
+      "abilities": [
+        "Communication",
+        "Hover"
+      ],
+      "secret ability": "Clutch"
     },
     "Hunder": {
       "id": "096",
       "image": "loomian_images/Hunder-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Hunder"
+      "abilities": [
+        "Brute Force"
+      ],
+      "secret ability": "Power Jaw"
     },
     "Arapaigo": {
       "id": "098",
       "image": "loomian_images/Arapaigo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Arapaigo"
+      "abilities": [
+        "Rain Rush",
+        "Finesse"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Pyke": {
       "id": "099",
       "image": "loomian_images/Pyke-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pyke"
+      "abilities": [
+        "Bitter Touch",
+        "Combative"
+      ],
+      "secret ability": "Brute Force"
     },
     "Zaleo": {
       "id": "101",
       "image": "loomian_images/Zaleo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Zaleo"
+      "abilities": [
+        "Adorable",
+        "Driven"
+      ],
+      "secret ability": "Overcharged"
     },
     "Dobo": {
       "id": "103",
       "image": "loomian_images/Dobo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dobo"
+      "abilities": [
+        "Hotfoot",
+        "Pyro"
+      ],
+      "secret ability": "Power Napper"
     },
     "Kyogo": {
       "id": "105",
       "image": "loomian_images/Kyogo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kyogo"
+      "abilities": [
+        "Anomaly"
+      ],
+      "secret ability": "Surrogate"
     },
     "Wiledile": {
       "id": "107",
       "image": "loomian_images/Wiledile-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wiledile"
+      "abilities": [
+        "Swampy"
+      ],
+      "secret ability": "Woodsman"
     },
     "Meditoad": {
       "id": "111",
       "image": "loomian_images/Meditoad-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Meditoad"
+      "abilities": [
+        "Specialization",
+        "Watcher"
+      ],
+      "secret ability": "Sly"
     },
     "Bloatox": {
       "id": "113",
       "image": "loomian_images/Bloatox-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Bloatox"
+      "abilities": [
+        "Sharp Edges",
+        "Toxic Spines"
+      ],
+      "secret ability": "Baneful"
     },
     "Barblast": {
       "id": "114",
       "image": "loomian_images/Barblast-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Barblast"
+      "abilities": [
+        "Parting Gift",
+        "Toxic Spines"
+      ],
+      "secret ability": "High Explosive"
     },
     "Snapr": {
       "id": "116",
       "image": "loomian_images/Snapr-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snapr"
+      "abilities": [
+        "Power Jaw",
+        "Terrifying"
+      ],
+      "secret ability": "Devious"
     },
     "Hydrini": {
       "id": "118",
       "image": "loomian_images/Hydrini-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Hydrini"
+      "abilities": [
+        "Rain Summon",
+        "Vivid Sight"
+      ],
+      "secret ability": "Aqua Body"
     },
     "Bezeldew": {
       "id": "119",
       "image": "loomian_images/Bezeldew-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Bezeldew"
+      "abilities": [
+        "Rain Summon",
+        "Vivid Sight"
+      ],
+      "secret ability": "Aqua Body"
     },
     "Ceratot": {
       "id": "121",
       "image": "loomian_images/Ceratot-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ceratot"
+      "abilities": [
+        "Staunch",
+        "Frail Armor"
+      ],
+      "secret ability": "Vigorous"
     },
     "Trepodon": {
       "id": "122",
       "image": "loomian_images/Trepodon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Trepodon"
+      "abilities": [
+        "Staunch",
+        "Frail Armor"
+      ],
+      "secret ability": "Vigorous"
     },
     "Hoganosh": {
       "id": "125",
       "image": "loomian_images/Hoganosh-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Hoganosh"
+      "abilities": [
+        "Caddie",
+        "Madcap"
+      ],
+      "secret ability": "Sweet Touch"
     },
     "Mocho": {
       "id": "128",
       "image": "loomian_images/Mocho-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mocho"
+      "abilities": [
+        "Sugar Rush",
+        "Lucky"
+      ],
+      "secret ability": "Shakedown"
     },
     "Spreezy": {
       "id": "131",
       "image": "loomian_images/Spreezy-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Spreezy"
+      "abilities": [
+        "Hard Candy",
+        "Clingy"
+      ],
+      "secret ability": "Sugar Rush"
     },
     "Pipsee": {
       "id": "132",
       "image": "loomian_images/Pipsee-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pipsee"
+      "abilities": [
+        "Glide",
+        "Wind Summon"
+      ],
+      "secret ability": "Vigilant"
     },
     "Dandylil": {
       "id": "133",
       "image": "loomian_images/Dandylil-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dandylil"
+      "abilities": [
+        "Glide",
+        "Wind Summon"
+      ],
+      "secret ability": "Vigilant"
     },
     "Vari": {
       "id": "135",
       "image": "loomian_images/Vari-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Vari"
+      "abilities": [
+        "Apprehension",
+        "Guardian"
+      ],
+      "secret ability": "Adorable"
     },
     "Copling": {
       "id": "153",
       "image": "loomian_images/Copling-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Copling"
+      "abilities": [
+        "Oxidize",
+        "Devious"
+      ],
+      "secret ability": "Playful"
     },
     "Copperage": {
       "id": "154",
       "image": "loomian_images/Copperage-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Copperage"
+      "abilities": [
+        "Oxidize",
+        "Devious"
+      ],
+      "secret ability": "Playful"
     },
     "Spirivii": {
       "id": "156",
       "image": "loomian_images/Spirivii-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Spirivii"
+      "abilities": [
+        "Life Force"
+      ],
+      "secret ability": null
     },
     "Eidohusk": {
       "id": "157",
       "image": "loomian_images/Eidohusk-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Eidohusk"
+      "abilities": [
+        "Life Force"
+      ],
+      "secret ability": null
     },
     "Snowl": {
       "id": "159",
       "image": "loomian_images/Snowl-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snowl"
+      "abilities": [
+        "Wise",
+        "Chill"
+      ],
+      "secret ability": "Glide"
     },
     "Stricicle": {
       "id": "160",
       "image": "loomian_images/Stricicle-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Stricicle"
+      "abilities": [
+        "Wise",
+        "Chill"
+      ],
+      "secret ability": "Glide"
     },
     "Snagoop": {
       "id": "164",
       "image": "loomian_images/Snagoop-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snagoop"
+      "abilities": [
+        "Clingy",
+        "Immunized"
+      ],
+      "secret ability": "Marksman"
     },
     "Makame": {
       "id": "165",
       "image": "loomian_images/Makame-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Makame"
+      "abilities": [
+        "Tone Deaf",
+        "Frail Armor"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Makoro": {
       "id": "166",
       "image": "loomian_images/Makoro-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Makoro"
+      "abilities": [
+        "Tone Deaf",
+        "Frail Armor"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Banfino": {
       "id": "169",
       "image": "loomian_images/Banfino-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Banfino"
+      "abilities": [
+        "Bully",
+        "Conspire"
+      ],
+      "secret ability": "Sly"
     },
     "Kanibo": {
       "id": "171",
       "image": "loomian_images/Kanibo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kanibo"
+      "abilities": [
+        "Madcap",
+        "Aggressive"
+      ],
+      "secret ability": "Ambush"
     },
     "Sharpod": {
       "id": "172",
       "image": "loomian_images/Sharpod-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Sharpod"
+      "abilities": [
+        "Rev Up",
+        "Terrifying"
+      ],
+      "secret ability": "Frenzy"
     },
     "Lumello": {
       "id": "175",
       "image": "loomian_images/Lumello-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lumello"
+      "abilities": [
+        "Sharp Edges",
+        "Premonition"
+      ],
+      "secret ability": "Repugnant"
     },
     "Laphyra": {
       "id": "177",
       "image": "loomian_images/Laphyra-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Laphyra"
+      "abilities": [
+        "Temper",
+        "Enchanted Coat"
+      ],
+      "secret ability": "Incandescent"
     },
     "Taoshinu": {
       "id": "180",
       "image": "loomian_images/Taoshinu-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Taoshinu"
+      "abilities": [
+        "Enchanted Coat",
+        "Guardian"
+      ],
+      "secret ability": "Sendoff"
     },
     "Lyricat": {
       "id": "182",
       "image": "loomian_images/Lyricat-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lyricat"
+      "abilities": [
+        "Tone Deaf",
+        "Burglar"
+      ],
+      "secret ability": "Shakedown"
     },
     "Clionae": {
       "id": "185",
       "image": "loomian_images/Clionae-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Clionae"
+      "abilities": [
+        "Guardian",
+        "Repugnant"
+      ],
+      "secret ability": "Persistence"
     },
     "Cinnogre": {
       "id": "187",
       "image": "loomian_images/Cinnogre-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cinnogre"
+      "abilities": [
+        "Sweet Touch",
+        "Ignorant"
+      ],
+      "secret ability": "Shakedown"
     },
     "Swirelle": {
       "id": "188",
       "image": "loomian_images/Swirelle-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Swirelle"
+      "abilities": [
+        "Appetite"
+      ],
+      "secret ability": null
     },
     "Fiscarna": {
       "id": "190",
       "image": "loomian_images/Fiscarna-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Fiscarna"
+      "abilities": [
+        "Regift",
+        "Gummy"
+      ],
+      "secret ability": "Viscid"
     },
     "Bunpuff": {
       "id": "191",
       "image": "loomian_images/Bunpuff-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Bunpuff"
+      "abilities": [
+        "Adorable",
+        "Noxious Weeds"
+      ],
+      "secret ability": "Glutton"
     },
     "Dractus": {
       "id": "193",
       "image": "loomian_images/Dractus-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dractus"
+      "abilities": [
+        "Protective Shell",
+        "Insulated"
+      ],
+      "secret ability": "Anomaly"
     },
     "Frutress": {
       "id": "194",
       "image": "loomian_images/Frutress-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Frutress"
+      "abilities": [
+        "Sharp Edges",
+        "Insulated"
+      ],
+      "secret ability": "Anomaly"
     },
     "Volpup": {
       "id": "196",
       "image": "loomian_images/Volpup-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Volpup"
+      "abilities": [
+        "Aggressive",
+        "Pitch-Black"
+      ],
+      "secret ability": "Mystery Toxins"
     },
     "Impkin": {
       "id": "198",
       "image": "loomian_images/Impkin-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Impkin"
+      "abilities": [
+        "Resentful",
+        "Devious"
+      ],
+      "secret ability": "Handy"
     },
     "Grimmick": {
       "id": "199",
       "image": "loomian_images/Grimmick-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Grimmick"
+      "abilities": [
+        "Resentful",
+        "Devious"
+      ],
+      "secret ability": "Handy"
     },
     "Cryocub": {
       "id": "203",
       "image": "loomian_images/Cryocub-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cryocub"
+      "abilities": [
+        "Adorable",
+        "Communication"
+      ],
+      "secret ability": "Mysterious Cloak"
     },
     "Hollibunch": {
       "id": "202",
       "image": "loomian_images/Hollibunch-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Hollibunch"
+      "abilities": [
+        "Festive Spirit"
+      ],
+      "secret ability": null
     },
     "Doreggo": {
       "id": "206",
       "image": "loomian_images/Doreggo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Doreggo"
+      "abilities": [
+        "Anomaly",
+        "Vivid Sight"
+      ],
+      "secret ability": "Vicious"
     },
     "Wispur": {
       "id": "208",
       "image": "loomian_images/Wispur-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wispur"
+      "abilities": [
+        "Radiance",
+        "Fog Summon"
+      ],
+      "secret ability": "Captivating"
     },
     "Lampurge": {
       "id": "209",
       "image": "loomian_images/Lampurge-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lampurge"
+      "abilities": [
+        "Radiance",
+        "Fog Summon"
+      ],
+      "secret ability": "Captivating"
     },
     "Smoal": {
       "id": "211",
       "image": "loomian_images/Smoal-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Smoal"
+      "abilities": [
+        "Heat Summon",
+        "Scorching Skin"
+      ],
+      "secret ability": "Blistering Heat"
     },
     "Charkiln": {
       "id": "212",
       "image": "loomian_images/Charkiln-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Charkiln"
+      "abilities": [
+        "Heat Summon",
+        "Scorching Skin"
+      ],
+      "secret ability": "Blistering Heat"
     },
     "Sherbot": {
       "id": "214",
       "image": "loomian_images/Sherbot-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Sherbot"
+      "abilities": [
+        "Overclock",
+        "Sugar Rush"
+      ],
+      "secret ability": "Chill"
     },
     "Llamba": {
       "id": "215",
       "image": "loomian_images/Llamba-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Llamba"
+      "abilities": [
+        "Playful",
+        "Regurgitate"
+      ],
+      "secret ability": "Wholesome"
     },
     "Choochew": {
       "id": "216",
       "image": "loomian_images/Choochew-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Choochew"
+      "abilities": [
+        "Playful",
+        "Regurgitate"
+      ],
+      "secret ability": "Wholesome"
     },
     "Fentern": {
       "id": "218",
       "image": "loomian_images/Fentern-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Fentern"
+      "abilities": [
+        "Intern",
+        "Rush Hour"
+      ],
+      "secret ability": "Trader"
     },
     "Moreel": {
       "id": "221",
       "image": "loomian_images/Moreel-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Moreel"
+      "abilities": [
+        "One of Many"
+      ],
+      "secret ability": null
     },
     "Crabtana": {
       "id": "223",
       "image": "loomian_images/Crabtana-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Crabtana"
+      "abilities": [
+        "Vengeance",
+        "Power Claw"
+      ],
+      "secret ability": "Razor Sharp"
     },
     "Teripod": {
       "id": "224",
       "image": "loomian_images/Teripod-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Teripod"
+      "abilities": [
+        "Watcher",
+        "Illuminate"
+      ],
+      "secret ability": "Mesmerizing"
     },
     "Prawnsu": {
       "id": "227",
       "image": "loomian_images/Prawnsu-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Prawnsu"
+      "abilities": [
+        "Applied Frustration",
+        "Clutch"
+      ],
+      "secret ability": "Vicious"
     },
     "Shrimposte": {
       "id": "228",
       "image": "loomian_images/Shrimposte-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Shrimposte"
+      "abilities": [
+        "Combative",
+        "Clutch"
+      ],
+      "secret ability": "Vicious"
     },
     "Dokan": {
       "id": "229",
       "image": "loomian_images/Dokan-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dokan"
+      "abilities": [
+        "Spine Break",
+        "Immunized"
+      ],
+      "secret ability": "Sponge"
     },
     "Mirrami": {
       "id": "231",
       "image": "loomian_images/Mirrami-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mirrami"
+      "abilities": [
+        "Reflective",
+        "Mimic"
+      ],
+      "secret ability": "Analyze"
     },
     "Thawmin": {
       "id": "233",
       "image": "loomian_images/Thawmin-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Thawmin"
+      "abilities": [
+        "Communication",
+        "Expertise"
+      ],
+      "secret ability": "Foresight"
     },
     "Leshent": {
       "id": "234",
       "image": "loomian_images/Leshent-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Leshent"
+      "abilities": [
+        "Watcher",
+        "Gloomy"
+      ],
+      "secret ability": "Petrifying"
     },
     "Kayute": {
       "id": "235",
       "image": "loomian_images/Kayute-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kayute"
+      "abilities": [
+        "Ravenous",
+        "Playful"
+      ],
+      "secret ability": "Designated Chompers"
     },
     "Kayappa": {
       "id": "236",
       "image": "loomian_images/Kayappa-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kayappa"
+      "abilities": [
+        "Ravenous",
+        "Playful"
+      ],
+      "secret ability": "Designated Chompers"
     },
     "Leopaw": {
       "id": "238",
       "image": "loomian_images/Leopaw-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Leopaw"
+      "abilities": [
+        "Sharp Claws",
+        "Mesmerizing"
+      ],
+      "secret ability": "Prismatic"
     },
     "Nautling": {
       "id": "248",
       "image": "loomian_images/Nautling-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nautling"
+      "abilities": [
+        "Watcher",
+        "Protective Shell"
+      ],
+      "secret ability": "Viscid"
     },
     "Yutiny": {
       "id": "251",
       "image": "loomian_images/Yutiny-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Yutiny"
+      "abilities": [
+        "Triumph",
+        "Petrifying"
+      ],
+      "secret ability": "Tumultuous"
     },
     "Yuteen": {
       "id": "252",
       "image": "loomian_images/Yuteen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Yuteen"
+      "abilities": [
+        "Triumph",
+        "Petrifying"
+      ],
+      "secret ability": "Tumultuous"
     },
     "Venile": {
       "id": "254",
       "image": "loomian_images/Venile-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Venile"
+      "abilities": [
+        "Power Claw",
+        "Venomous"
+      ],
+      "secret ability": "Brutal Wrath"
     },
     "Verinox": {
       "id": "255",
       "image": "loomian_images/Verinox-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Verinox"
+      "abilities": [
+        "Power Claw",
+        "Venomous"
+      ],
+      "secret ability": "Brutal Wrath"
     },
     "Nymvolt": {
       "id": "257",
       "image": "loomian_images/Nymvolt-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nymvolt"
+      "abilities": [
+        "Thunder Summon",
+        "Recurrent"
+      ],
+      "secret ability": "Charged Arc"
     },
     "Ohmbolt": {
       "id": "258",
       "image": "loomian_images/Ohmbolt-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ohmbolt"
+      "abilities": [
+        "Thunder Summon",
+        "Recurrent"
+      ],
+      "secret ability": "Charged Arc"
     },
     "Violana": {
       "id": "261",
       "image": "loomian_images/Violana-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Violana"
+      "abilities": [
+        "Metamorphosis",
+        "Mesmerizing"
+      ],
+      "secret ability": "Expertise"
     },
     "Ganderveil": {
       "id": "263",
       "image": "loomian_images/Ganderveil-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ganderveil"
+      "abilities": [
+        "Compliant",
+        "Burglar"
+      ],
+      "secret ability": "Hydrate"
     },
     "Banokey": {
       "id": "265",
       "image": "loomian_images/Banokey-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Banokey"
+      "abilities": [
+        "Shakedown",
+        "Assertive"
+      ],
+      "secret ability": "Berserk"
     },
     "Malevowax": {
       "id": "267",
       "image": "loomian_images/Malevowax-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Malevowax"
+      "abilities": [
+        "Disenchant",
+        "Raging Fire"
+      ],
+      "secret ability": "Devious"
     },
     "Obelost": {
       "id": "269",
       "image": "loomian_images/Obelost-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Obelost"
+      "abilities": [
+        "Wail",
+        "Bitter Touch"
+      ],
+      "secret ability": "Seize"
     },
     "Piccolio": {
       "id": "271",
       "image": "loomian_images/Piccolio-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Piccolio"
+      "abilities": [
+        "Fortissimo",
+        "Carol"
+      ],
+      "secret ability": "Virtuoso"
     },
     "Wassel": {
       "id": "272",
       "image": "loomian_images/Wassel-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wassel"
+      "abilities": [
+        "Adorable"
+      ],
+      "secret ability": "Elusive"
     },
     "Snicle": {
       "id": "274",
       "image": "loomian_images/Snicle-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Snicle"
+      "abilities": [
+        "Puncture"
+      ],
+      "secret ability": "Toxic Sac"
     },
     "Dainuki": {
       "id": "277",
       "image": "loomian_images/Dainuki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dainuki"
+      "abilities": [
+        "Lucky",
+        "Sly"
+      ],
+      "secret ability": "Handy"
     },
     "Terracolt": {
       "id": "278",
       "image": "loomian_images/Terracolt-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Terracolt"
+      "abilities": [
+        "Power Legs",
+        "Rush Hour"
+      ],
+      "secret ability": "Confidence"
     }
   },
   "Very_Rare": {
     "Searknight": {
       "id": "003",
       "image": "loomian_images/Searknight-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Searknight"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Terrifying"
     },
     "Luminami": {
       "id": "006",
       "image": "loomian_images/Luminami-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Luminami"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Power Napper"
     },
     "Tahtab": {
       "id": "009",
       "image": "loomian_images/Tahtab-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Tahtab"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Thriving Pace"
     },
     "Falkyrie": {
       "id": "012",
       "image": "loomian_images/Falkyrie-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Falkyrie"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Applied Frustration"
     },
     "Vesperatu": {
       "id": "015",
       "image": "loomian_images/Vesperatu-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Vesperatu"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Demanding"
     },
     "Himbrr": {
       "id": "018",
       "image": "loomian_images/Himbrr-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Himbrr"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Staunch"
     },
     "Zuelong": {
       "id": "021",
       "image": "loomian_images/Zuelong-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Zuelong"
+      "abilities": [
+        "Awakening"
+      ],
+      "secret ability": "Brute Force"
     },
     "Tiklipse": {
       "id": "025",
       "image": "loomian_images/Tiklipse-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Tiklipse"
+      "abilities": [
+        "Circadian"
+      ],
+      "secret ability": "Total Eclipse"
     },
     "Obsidrugon": {
       "id": "073",
       "image": "loomian_images/Obsidrugon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Obsidrugon"
+      "abilities": [
+        "Sharp Edges",
+        "Sharp Claws"
+      ],
+      "secret ability": "Resilience"
     },
     "Pyramind": {
       "id": "079",
       "image": "loomian_images/Pyramind-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pyramind"
+      "abilities": [
+        "Idiosyncratic",
+        "Temper"
+      ],
+      "secret ability": "Reign"
     },
     "Tyrecks": {
       "id": "089",
       "image": "loomian_images/Tyrecks-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Tyrecks"
+      "abilities": [
+        "Terrifying",
+        "Power Jaw"
+      ],
+      "secret ability": "Overclock"
     },
     "Skelic": {
       "id": "100",
       "image": "loomian_images/Skelic-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Skelic"
+      "abilities": [
+        "Bitter Touch",
+        "Combative"
+      ],
+      "secret ability": "Brute Force"
     },
     "Joltooth": {
       "id": "102",
       "image": "loomian_images/Joltooth-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Joltooth"
+      "abilities": [
+        "Ambush",
+        "Driven"
+      ],
+      "secret ability": "Overcharged"
     },
     "Infernix": {
       "id": "104",
       "image": "loomian_images/Infernix-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Infernix"
+      "abilities": [
+        "Hotfoot",
+        "Pyro"
+      ],
+      "secret ability": "Power Napper"
     },
     "Dorogo": {
       "id": "106",
       "image": "loomian_images/Dorogo-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dorogo"
+      "abilities": [
+        "Anomaly"
+      ],
+      "secret ability": "Surrogate"
     },
     "Mawamurk": {
       "id": "108",
       "image": "loomian_images/Mawamurk-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mawamurk"
+      "abilities": [
+        "Swampy"
+      ],
+      "secret ability": "Woodsman"
     },
     "Garlash": {
       "id": "117",
       "image": "loomian_images/Garlash-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Garlash"
+      "abilities": [
+        "Power Jaw",
+        "Terrifying"
+      ],
+      "secret ability": "Devious"
     },
     "Deludrix": {
       "id": "120",
       "image": "loomian_images/Deludrix-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Deludrix"
+      "abilities": [
+        "Rain Summon",
+        "Vivid Sight"
+      ],
+      "secret ability": "Aqua Body"
     },
     "Colossotrops": {
       "id": "123",
       "image": "loomian_images/Colossotrops-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Colossotrops"
+      "abilities": [
+        "Staunch",
+        "Frail Armor"
+      ],
+      "secret ability": "Vigorous"
     },
     "Whippledriff": {
       "id": "134",
       "image": "loomian_images/Whippledriff-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Whippledriff"
+      "abilities": [
+        "Glide",
+        "Wind Summon"
+      ],
+      "secret ability": "Vigilant"
     },
     "Cervolen": {
       "id": "136",
       "image": "loomian_images/Cervolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cervolen"
+      "abilities": [
+        "Staunch",
+        "Confidence"
+      ],
+      "secret ability": "Boneheaded"
     },
     "Wendolen": {
       "id": "137",
       "image": "loomian_images/Wendolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wendolen"
+      "abilities": [
+        "Sharp Claws",
+        "Gloomy"
+      ],
+      "secret ability": "Finesse"
     },
     "Kirolen": {
       "id": "138",
       "image": "loomian_images/Kirolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kirolen"
+      "abilities": [
+        "Hasty",
+        "Shakedown"
+      ],
+      "secret ability": "Devious"
     },
     "Zepholen": {
       "id": "139",
       "image": "loomian_images/Zepholen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Zepholen"
+      "abilities": [
+        "Sharp Focus",
+        "Tumultuous"
+      ],
+      "secret ability": "Turbulent"
     },
     "Venolen": {
       "id": "140",
       "image": "loomian_images/Venolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Venolen"
+      "abilities": [
+        "Devious",
+        "Toxic Touch"
+      ],
+      "secret ability": "Baneful"
     },
     "Wresolen": {
       "id": "141",
       "image": "loomian_images/Wresolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wresolen"
+      "abilities": [
+        "Aggressive",
+        "Ignorant"
+      ],
+      "secret ability": "Ace"
     },
     "Buzzolen": {
       "id": "142",
       "image": "loomian_images/Buzzolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Buzzolen"
+      "abilities": [
+        "Vigorous",
+        "Marksman"
+      ],
+      "secret ability": "Sweet Aroma"
     },
     "Tundrolen": {
       "id": "143",
       "image": "loomian_images/Tundrolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Tundrolen"
+      "abilities": [
+        "Insulated",
+        "Mysterious Cloak"
+      ],
+      "secret ability": "Resilience"
     },
     "Pyrolen": {
       "id": "144",
       "image": "loomian_images/Pyrolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pyrolen"
+      "abilities": [
+        "Fanning Flame",
+        "Volcanic"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Hydrolen": {
       "id": "145",
       "image": "loomian_images/Hydrolen-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Hydrolen"
+      "abilities": [
+        "Hydrate",
+        "Vigilant"
+      ],
+      "secret ability": "Luck Of The Sea"
     },
     "Oxidrake": {
       "id": "155",
       "image": "loomian_images/Oxidrake-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Oxidrake"
+      "abilities": [
+        "Oxidize",
+        "Devious"
+      ],
+      "secret ability": "Combative"
     },
     "Harvesect": {
       "id": "158",
       "image": "loomian_images/Harvesect-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Harvesect"
+      "abilities": [
+        "Life Force"
+      ],
+      "secret ability": null
     },
     "Wintrix": {
       "id": "161",
       "image": "loomian_images/Wintrix-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wintrix"
+      "abilities": [
+        "Wise",
+        "Chill"
+      ],
+      "secret ability": "Glide"
     },
     "Tsukame": {
       "id": "167",
       "image": "loomian_images/Tsukame-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Tsukame"
+      "abilities": [
+        "Tone Deaf",
+        "Frail Armor"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Samarine": {
       "id": "173",
       "image": "loomian_images/Samarine-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Samarine"
+      "abilities": [
+        "Rev Up",
+        "Terrifying"
+      ],
+      "secret ability": "Frenzy"
     },
     "Jellusa": {
       "id": "178",
       "image": "loomian_images/Jellusa-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Jellusa"
+      "abilities": [
+        "Temper",
+        "Enchanted Coat"
+      ],
+      "secret ability": "Incandescent"
     },
     "Boonary": {
       "id": "183",
       "image": "loomian_images/Boonary-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Boonary"
+      "abilities": [
+        "Two Face"
+      ],
+      "secret ability": null
     },
     "Bunnecki": {
       "id": "192",
       "image": "loomian_images/Bunnecki-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Bunnecki"
+      "abilities": [
+        "Adorable",
+        "Noxious Weeds"
+      ],
+      "secret ability": "Glutton"
     },
     "Seedrake": {
       "id": "195",
       "image": "loomian_images/Seedrake-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Seedrake"
+      "abilities": [
+        "Sharp Edges",
+        "Insulated"
+      ],
+      "secret ability": "Anomaly"
     },
     "Halvantic": {
       "id": "197",
       "image": "loomian_images/Halvantic-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Halvantic"
+      "abilities": [
+        "Aggressive",
+        "Pitch-Black"
+      ],
+      "secret ability": "Mystery Toxins"
     },
     "Imperior": {
       "id": "200",
       "image": "loomian_images/Imperior-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Imperior"
+      "abilities": [
+        "Resentful",
+        "Devious"
+      ],
+      "secret ability": "Handy"
     },
     "Barbadger": {
       "id": "204",
       "image": "loomian_images/Barbadger-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Barbadger"
+      "abilities": [
+        "Dauntless",
+        "Communication"
+      ],
+      "secret ability": "Mysterious Cloak"
     },
     "Dreggodyne": {
       "id": "207",
       "image": "loomian_images/Dreggodyne-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dreggodyne"
+      "abilities": [
+        "Staunch",
+        "Vivid Sight"
+      ],
+      "secret ability": "Vicious"
     },
     "Charonyx": {
       "id": "210",
       "image": "loomian_images/Charonyx-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Charonyx"
+      "abilities": [
+        "Radiance",
+        "Fog Summon"
+      ],
+      "secret ability": "Reaper"
     },
     "Billoforge": {
       "id": "213",
       "image": "loomian_images/Billoforge-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Billoforge"
+      "abilities": [
+        "Heat Summon",
+        "Scorching Skin"
+      ],
+      "secret ability": "Blistering Heat"
     },
     "Loomala": {
       "id": "217",
       "image": "loomian_images/Loomala-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Loomala"
+      "abilities": [
+        "Herd Behavior",
+        "Regurgitate"
+      ],
+      "secret ability": "Wholesome"
     },
     "Weaselin": {
       "id": "219",
       "image": "loomian_images/Weaselin-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Weaselin"
+      "abilities": [
+        "Partnership",
+        "Rush Hour"
+      ],
+      "secret ability": "Trader"
     },
     "Teridescent": {
       "id": "225",
       "image": "loomian_images/Teridescent-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Teridescent"
+      "abilities": [
+        "Watcher",
+        "Illuminate"
+      ],
+      "secret ability": "Mesmerizing"
     },
     "Dokumori": {
       "id": "230",
       "image": "loomian_images/Dokumori-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dokumori"
+      "abilities": [
+        "Spine Break",
+        "Immunized"
+      ],
+      "secret ability": "Sponge"
     },
     "Mirraith": {
       "id": "232",
       "image": "loomian_images/Mirraith-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mirraith"
+      "abilities": [
+        "Reflective",
+        "Mimic"
+      ],
+      "secret ability": "Analyze"
     },
     "Kramboss": {
       "id": "237",
       "image": "loomian_images/Kramboss-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Kramboss"
+      "abilities": [
+        "Ravenous",
+        "Battle Armor"
+      ],
+      "secret ability": "Designated Chompers"
     },
     "Chienta": {
       "id": "239",
       "image": "loomian_images/Chienta-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Chienta"
+      "abilities": [
+        "Sharp Claws",
+        "Mesmerizing"
+      ],
+      "secret ability": "Prismatic"
     },
     "Parasoul": {
       "id": "241",
       "image": "loomian_images/Parasoul-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Parasoul"
+      "abilities": [
+        "Hydro Vortex",
+        "Do or Die"
+      ],
+      "secret ability": "Pluvial"
     },
     "Biwarned": {
       "id": "243",
       "image": "loomian_images/Biwarned-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Biwarned"
+      "abilities": [
+        "Motivational",
+        "Do or Die"
+      ],
+      "secret ability": "Virtuoso"
     },
     "Lantorch": {
       "id": "245",
       "image": "loomian_images/Lantorch-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Lantorch"
+      "abilities": [
+        "Wildfire",
+        "Do or Die"
+      ],
+      "secret ability": "Sendoff"
     },
     "Rancidor": {
       "id": "247",
       "image": "loomian_images/Rancidor-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Rancidor"
+      "abilities": [
+        "Soul Siphon",
+        "Do or Die"
+      ],
+      "secret ability": "Devious"
     },
     "Nautillect": {
       "id": "249",
       "image": "loomian_images/Nautillect-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nautillect"
+      "abilities": [
+        "Watcher",
+        "Wise"
+      ],
+      "secret ability": "Viscid"
     },
     "Naukout": {
       "id": "250",
       "image": "loomian_images/Naukout-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Naukout"
+      "abilities": [
+        "Watcher",
+        "Assertive"
+      ],
+      "secret ability": "Viscid"
     },
     "Yutyphoon": {
       "id": "253",
       "image": "loomian_images/Yutyphoon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Yutyphoon"
+      "abilities": [
+        "Triumph",
+        "Petrifying"
+      ],
+      "secret ability": "Tumultuous"
     },
     "Verinosaur": {
       "id": "256",
       "image": "loomian_images/Verinosaur-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Verinosaur"
+      "abilities": [
+        "Power Claw",
+        "Venomous"
+      ],
+      "secret ability": "Brutal Wrath"
     },
     "Plasmoth": {
       "id": "259",
       "image": "loomian_images/Plasmoth-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Plasmoth"
+      "abilities": [
+        "Thunder Summon",
+        "Recurrent"
+      ],
+      "secret ability": "Charged Arc"
     },
-        "Borealisk": {
+    "Borealisk": {
       "id": "273",
       "image": "loomian_images/Borealisk-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Borealisk"
+      "abilities": [
+        "Upper Hand"
+      ],
+      "secret ability": "Elusive"
     },
     "Slivyce": {
       "id": "275",
       "image": "loomian_images/Slivyce-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Slivyce"
+      "abilities": [
+        "Puncture"
+      ],
+      "secret ability": "Toxic Sac"
     },
     "Broncotta": {
       "id": "279",
       "image": "loomian_images/Broncotta-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Broncotta"
+      "abilities": [
+        "Power Legs",
+        "Rush Hour"
+      ],
+      "secret ability": "Confidence"
     }
   },
   "Roamer": {
     "Pharoglyph": {
       "id": "080",
       "image": "loomian_images/Pharoglyph-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Pharoglyph"
+      "abilities": [
+        "Idiosyncratic",
+        "Temper"
+      ],
+      "secret ability": "Reign"
     },
     "Duskit": {
       "id": "289",
       "image": "loomian_images/Duskit-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Duskit"
+      "abilities": [
+        "Harmonize"
+      ],
+      "secret ability": "Mean Spirited"
     },
     "Ikazune": {
       "id": "290",
       "image": "loomian_images/Ikazune-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Ikazune"
+      "abilities": [
+        "Raging Fire"
+      ],
+      "secret ability": "Rechargeable"
     },
     "Protogon": {
       "id": "291",
       "image": "loomian_images/Protogon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Protogon"
+      "abilities": [
+        "Analyze"
+      ],
+      "secret ability": "Replicate"
     },
     "Dakuda": {
       "id": "292",
       "image": "loomian_images/Dakuda-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Dakuda"
+      "abilities": [
+        "Brute Force"
+      ],
+      "secret ability": "Hydrate"
     },
     "Cosmeleon": {
       "id": "295",
       "image": "loomian_images/Cosmeleon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cosmeleon"
+      "abilities": [
+        "Adaptable"
+      ],
+      "secret ability": null
     },
     "Mutagon": {
       "id": "296",
       "image": "loomian_images/Mutagon-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mutagon"
+      "abilities": [
+        "Tank"
+      ],
+      "secret ability": "Heavy Fists"
     },
     "Cephalops": {
       "id": "297",
       "image": "loomian_images/Cephalops-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cephalops"
+      "abilities": [
+        "Bloodsucker"
+      ],
+      "secret ability": "Nightmarish"
     },
     "Elephage": {
       "id": "298",
       "image": "loomian_images/Elephage-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Elephage"
+      "abilities": [
+        "Malware"
+      ],
+      "secret ability": "Replicate"
     },
     "Phagenaut": {
       "id": "299",
       "image": "loomian_images/Phagenaut-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Phagenaut"
+      "abilities": [
+        "Malware"
+      ],
+      "secret ability": "Overcharged"
     },
     "Glacadia": {
       "id": "300",
       "image": "loomian_images/Glacadia-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Glacadia"
+      "abilities": [
+        "Chilling Passion"
+      ],
+      "secret ability": "Deep Frostbite"
     },
     "Arceros": {
       "id": "301",
       "image": "loomian_images/Arceros-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Arceros"
+      "abilities": [
+        "Burning Rage"
+      ],
+      "secret ability": "Third-degree Burn"
     },
     "Novadeaus": {
       "id": "302",
       "image": "loomian_images/Novadeaus-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Novadeaus"
+      "abilities": [
+        "Obsidian Heart"
+      ],
+      "secret ability": null
     },
     "Morphezu": {
       "id": "303",
       "image": "loomian_images/Morphezu-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Morphezu"
+      "abilities": [
+        "Sky-Borne"
+      ],
+      "secret ability": "All Seeing"
     },
     "Behemoroth": {
       "id": "304",
       "image": "loomian_images/Behemoroth-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Behemoroth"
+      "abilities": [
+        "Land-Borne"
+      ],
+      "secret ability": "All Seeing"
     },
     "Leviatross": {
       "id": "305",
       "image": "loomian_images/Leviatross-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Leviatross"
+      "abilities": [
+        "Depths-Borne"
+      ],
+      "secret ability": "All Seeing"
     },
     "Cosmiore": {
       "id": "307",
       "image": "loomian_images/Cosmiore-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Cosmiore"
+      "abilities": [
+        "Enchanted Coat"
+      ],
+      "secret ability": "Quick Recovery"
     },
     "Solnecta": {
       "id": "308",
       "image": "loomian_images/Solnecta-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Solnecta"
+      "abilities": [
+        "Night Light"
+      ],
+      "secret ability": "Intensify"
     },
     "Nymaurae": {
       "id": "309",
       "image": "loomian_images/Nymaurae-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nymaurae"
+      "abilities": [
+        "Quick Recovery"
+      ],
+      "secret ability": "Incandescent"
     },
     "Nymesis": {
       "id": "310",
       "image": "loomian_images/Nymesis-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nymesis"
+      "abilities": [
+        "Impose"
+      ],
+      "secret ability": "Pitch-Black"
     },
     "Metronette": {
       "id": "311",
       "image": "loomian_images/Metronette-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Metronette"
+      "abilities": [
+        "Mysterious Cloak"
+      ],
+      "secret ability": "Applied Frustration"
     },
     "Nevermare": {
       "id": "312",
       "image": "loomian_images/Nevermare-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Nevermare"
+      "abilities": [
+        "Razor Sharp"
+      ],
+      "secret ability": "Frenzy"
     },
     "Gargolem": {
       "id": "313",
       "image": "loomian_images/Gargolem-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Gargolem"
+      "abilities": [
+        "Immunized",
+        "Sly"
+      ],
+      "secret ability": "Master"
     },
     "Odoyaga": {
       "id": "314",
       "image": "loomian_images/Odoyaga-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Odoyaga"
+      "abilities": [
+        "Hag"
+      ],
+      "secret ability": "Frenzy"
     },
     "Wabalisc": {
       "id": "315",
       "image": "loomian_images/Wabalisc-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Wabalisc"
+      "abilities": [
+        "Ignorant"
+      ],
+      "secret ability": "Hasty"
     },
     "Akhalos": {
       "id": "316",
       "image": "loomian_images/Akhalos-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Akhalos"
+      "abilities": [
+        "Aqua Body"
+      ],
+      "secret ability": "Aggressive"
     },
     "Celesting": {
       "id": "317",
       "image": "loomian_images/Celesting-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Celesting"
+      "abilities": [
+        "Reverberate"
+      ],
+      "secret ability": "Mystic Tone"
     },
     "Mimask": {
       "id": "318",
       "image": "loomian_images/Mimask-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Mimask"
+      "abilities": [
+        "Mask Swap"
+      ],
+      "secret ability": "Facade"
     },
     "Grimyuline": {
       "id": "319",
       "image": "loomian_images/Grimyuline-model.png",
-      "wiki": "https://loomian-legacy.fandom.com/wiki/Grimyuline"
+      "abilities": [
+        "Sharp Edges"
+      ],
+      "secret ability": "Sharp Claws"
     }
   }
 }

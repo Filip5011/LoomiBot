@@ -150,7 +150,7 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-@bot.command()
+@bot.command(aliases=["commands"])
 async def help(ctx):
     embed = discord.Embed(title="__LoomiBot's Commands__",
                           description="- **help** - View commands.\n" \
@@ -172,7 +172,7 @@ async def help(ctx):
 async def changelog(ctx):
     embed = discord.Embed(title="__Changelog__",
                           description=
-                          "v0.5.0\n" \
+                          "v0.5.1\n" \
                           " - Added direct ability searching\n" \
                           "v0.4.3\n" \
                           "- Added majority of wiki into search\n" \

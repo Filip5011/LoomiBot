@@ -39,7 +39,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 
-OWNER_ID = 613290473620242453
+OWNER_ID = os.getenv('OWNER_ID')
 
 MIN_MESSAGES = 15
 MAX_MESSAGES = 25
@@ -690,7 +690,17 @@ async def catch(ctx, *, loomian):
             session.add(user)
             session.flush()
 
-        level = random.randint(3, 25)
+        minimum_level = loomian_data[rarity][current_spawn]["minimum_level"]
+
+        if minimum_level == 50:
+            level = 50
+        elif minimum_level + 10 > 50:
+            level = random.randint(minimum_level, 50)
+        elif rarity == "Roamer":
+            level = random.randint(25, 40)
+        else:
+            level = random.randint(minimum_level, minimum_level + 10)
+
         species_id = loomian_data[rarity][current_spawn]["id"]
 
         last_loomian = (

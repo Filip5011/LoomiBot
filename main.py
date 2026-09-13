@@ -44,8 +44,8 @@ OWNER_ID = os.getenv('OWNER_ID')
 MIN_MESSAGES = 15
 MAX_MESSAGES = 25
 
-VOICE_XP = 20
-MESSAGE_XP = 50
+VOICE_XP = 75
+MESSAGE_XP = 100
 MESSAGE_XP_COOLDOWN = 5
 
 MESSAGE_COOLDOWN = 3
@@ -60,6 +60,8 @@ WEATHERS = {
     "Severe Thunderstorm": ":cloud_lightning:",
     "Blistering Blizzard": ":cloud_snow:"
 }
+
+ITEMS = {}
 
 message_counts = {}
 last_counted_messages = {}
